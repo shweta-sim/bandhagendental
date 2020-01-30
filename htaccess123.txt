@@ -1,0 +1,18 @@
+Header set Cache-Control no-cache
+<IfModule mod_rewrite.c>
+AddType application/x-httpd-php .html .htm
+RewriteEngine On
+RewriteBase   /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+# Rewrite all other URLs to index.php/URL
+RewriteRule ^(.*)$ index.php?url=$1 [L]
+RewriteRule ^(login.php) - [L]
+#RewriteRule !\.(js|ico|gif|jpg|png|css|html)$ index.php
+</IfModule>
+<IfModule !mod_rewrite.c>
+	ErrorDocument 404 index.php
+</IfModule>
+
+RewriteCond %{HTTP_HOST} ^bokin\.se [NC] 
+RewriteRule (.*) http://www.bandhagendental.se/$1 [R=301,L]
