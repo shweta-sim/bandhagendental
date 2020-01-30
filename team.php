@@ -20,20 +20,21 @@
                 <!-- Third Member Start -->
                 <div>
                   <div class="thumbnail"><img src="images/img-team3.jpg" alt=""></div>
-                  <h4>Lina Perea <span>Receptionist</span></h4>
-                  <p>Lina är ett av våra senare tillskott på kliniken.<br>
+                  <h4>Katja Weimarsson <span>Receptionist</span></h4>
+                  <p>Katja är ett av våra senare tillskott på kliniken.<br>
+                  Hon har 15 års erfarenhet som receptionist.<br>
 Hon är omtänksam och har alltid ett glatt leende att bjuda på.<br>
-Lina talar flytande Svenska, Spanska och Engelska.</p>
+Katja talar flytande Svenska, Engelska och Ryska.</p>
                 </div>                
                 <!-- Third Member Ends --> 
                 <!-- Fourth Member Start -->                
                 <div>
                   <div class="thumbnail"><img src="images/img-team4.jpg" alt=""></div>
-                  <h4>Ghiyas Fadda <span>Tandläkare</span></h4>
-                  <p>Ghiyas har jobbat som tandläkare i över 15 år. <br>Hans passion är kosmetiska behandlingar som Hollywood Smile och oral rehabilitering med hög estetisk kvalitet.<br> 
-Han arbetar även som nischtandläkare inom Endodonti (Rotbehandlingar).<br>
-Ghiyas siktar högt och jobbar med den senaste tekniken inom tandvården såsom digital avtryckstagning mm.. <br>
-Han talar Svenska,Arabiska,Ryska ,Ukrainska och engelska.</p>
+                  <h4>Ummi Kurt <span>Tandsköterska</span></h4>
+                  <p>Ummi har endast 1 års erfarenhet som tandsköterska. <br>
+                  Hon vill bara lära sig så mycket som möjligt och hon är superduktig i det hon gör. <br>
+                  Ummi vill alltid göra det bästa av situation och ställer alltid höga krav på sig.<br>
+Ummi talar flytande Svenska, Engelska, Kurdiska och Turkiska.</p>
                 </div>                
                 <!-- Fourth Member Ends --> 
                 <!-- Fifth Member Start -->                
@@ -46,10 +47,10 @@ Han talar Svenska,Arabiska,Ryska ,Ukrainska och engelska.</p>
                 <!-- Sixth Member Start -->                
                 <div>
                   <div class="thumbnail"><img src="images/img-team6.jpg" alt=""></div>
-                  <h4>Nazi Ghassemi <span>Tandsköterska</span></h4>
-                  <p>Nazi är en duktig och rutinerad tandsköterska.<br>
-                    Hon är glad ,omtänksam och man kan säga att hon är som hjärtat på kliniken som håller ordning och reda på allt.<br>
-                  Nazi talar Svenska och persiska.</p>
+                  <h4>Marcela Collodetti <span>Tandsköterska</span></h4>
+                  <p>Marcela har jobbat som legitimerad tandläkare i sitt hemland i över 15 år.<br>
+ Hon är mycket omtänksam och bryr sig verkligen om kliniken och patienterna.<br>
+Hon talar Svenska, Engelska och Purtugisiska.</p>
                 </div>
                 <!-- Sixth Member Ends -->                
               </div>
@@ -93,21 +94,22 @@ Han talar Svenska,Arabiska,Ryska ,Ukrainska och engelska.</p>
                   <!-- Third Member Start -->
                   <div class="circle_slider_text_wrapper" id="sw2" style="display: none; right:30px;">
                     <div class="content_slider_text_block_wrap">
-                      <h4>Lina Perea <span>Receptionist</span></h4>
-                  <p>Lina är ett av våra senare tillskott på kliniken.<br>
+                      <h4>Katja Weimarsson <span>Receptionist</span></h4>
+                      <p>Katja är ett av våra senare tillskott på kliniken. <br>
+                      Hon har 15 års erfarenhet som receptionist.<br>
 Hon är omtänksam och har alltid ett glatt leende att bjuda på.<br>
-Lina talar flytande Svenska, Spanska och Engelska.</p>
+Katja talar flytande Svenska, Engelska och Ryska.</p>
                     </div>
                   </div>
                   <!-- Third Member Ends --> 
                   <!-- Fourth Member Start -->
                   <div class="circle_slider_text_wrapper" id="sw3" style="display: none; right:30px;">
                     <div class="content_slider_text_block_wrap">
-                      <h4>Ghiyas Fadda <span>Tandläkare</span></h4>
-                  <p>Ghiyas har jobbat som tandläkare i över 15 år. <br>Hans passion är kosmetiska behandlingar som Hollywood Smile och oral rehabilitering med hög estetisk kvalitet.<br> 
-Han arbetar även som nischtandläkare inom Endodonti (Rotbehandlingar).<br>
-Ghiyas siktar högt och jobbar med den senaste tekniken inom tandvården såsom digital avtryckstagning mm.. <br>
-Han talar Svenska,Arabiska,Ryska ,Ukrainska och engelska.</p>
+                      <h4>Ummi Kurt <span>Tandläkare</span></h4>
+                      <p>Ummi har endast 1 års erfarenhet som tandsköterska. <br>
+                      Hon vill bara lära sig så mycket som möjligt och hon är superduktig i det hon gör. <br>
+                      Ummi vill alltid göra det bästa av situation och ställer alltid höga krav på sig.<br>
+Ummi talar flytande Svenska, Engelska, Kurdiska och Turkiska.</p>
                     </div>
                   </div>
                   <!-- Fourth Member Ends --> 
@@ -122,10 +124,10 @@ Han talar Svenska,Arabiska,Ryska ,Ukrainska och engelska.</p>
                   <!-- Sixth Member Start -->                  
                   <div class="circle_slider_text_wrapper" id="sw5" style="display: none; right:30px;">
                     <div class="content_slider_text_block_wrap">
-                      <h4>Nazi Ghassemi <span>Tandsköterska</span></h4>
-                  <p>Nazi är en duktig och rutinerad tandsköterska.<br>
-                    Hon är glad ,omtänksam och man kan säga att hon är som hjärtat på kliniken som håller ordning och reda på allt.<br>
-                  Nazi talar Svenska och persiska.</p>
+                      <h4>Marcela Collodetti <span>Tandsköterska</span></h4>
+                      <p>Marcela har jobbat som legitimerad tandläkare i sitt hemland i över 15 år.<br>
+ Hon är mycket omtänksam och bryr sig verkligen om kliniken och patienterna.<br>
+Hon talar Svenska, Engelska och Purtugisiska.</p>
                     </div>
                   </div>
                   <!-- Sixth Member Ends -->                  
