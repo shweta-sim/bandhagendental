@@ -15,6 +15,8 @@
       <li><a href="index.php"><i><img src="images/icon-hem.png" alt=""></i>Hem</a></li>
       <li><a href="javascript:void();" data-toggle="modal" data-target="#akut"><i><img src="images/icon-akut.png" alt=""></i>Akut</a></li>
       <li><a href="javascript:void();" data-toggle="modal" data-target="#lista-mig"><i><img src="images/icon-lista-mig.png" alt=""></i>Lista Mig</a></li>
+      <li><a href="https://bandhagen.opusdentalonline.com/" target="_blank"><i><img src="images/icon-boka-online.png" alt=""></i>Boka Online</a></li>
+
       <!--<li><a href="javascript:void();" data-toggle="modal" data-target="#ring-mig"><i><img src="images/icon-ring-mig.png" alt=""></i>Ring Mig</a></li>-->
     </ul>
     <ul class="pull-right">      
@@ -61,6 +63,7 @@
       <li><a href="akut.php"><i><img src="images/icon-akut-white.png" alt=""></i>Akut</a></li>
       <li><a href="lista-mig.php"><i><img src="images/icon-lista-mig-white.png" alt=""></i>Lista Mig</a></li>
       <li><a href="ring-mig.php"><i><img src="images/icon-ring-mig-white.png" alt=""></i>Ring Mig</a></li>
+      <li><a href="https://bandhagen.opusdentalonline.com/" target="_blank"><i><img src="images/icon-boka-online-white.png" alt=""></i>Boka Online</a></li>
     </ul>
     <hr>
     <ul class="sidebar-nav">
