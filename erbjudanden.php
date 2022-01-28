@@ -124,7 +124,7 @@
             <div class="row margin-btm20">
               <div class="col-md-6 margin-btm20">
                 	<div class="pricing-table">
-                    	<div class="grid-title font-16">TTandläkarundersökning plus alla nödvändiga röntgenbilder och kostnadsförslag endast för 199*kr</div>
+                    	<div class="grid-title font-16">Tandläkarundersökning plus alla nödvändiga röntgenbilder och kostnadsförslag för endast 199 kr med ATB.</div>
                         <div class="grid-row1">Ord. Pris 1520 kr</div>
                     </div>
             	</div>              

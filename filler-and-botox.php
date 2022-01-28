@@ -87,23 +87,35 @@
           </div>
         <div class="col-md-7 col-sm-7 pull-right treatment-text">
           <h4>Fillers and Botox</h4>
-            <div class="font-16">Vi utför inte injektionsbehandling på dig som:<br>
-                <br>
-                - är gravid eller ammar<br>
-                <br>
-                - är allergisk mot lidokain (bedövningsmedel)<br>
-                <br>
-                - har feber, sjukdomskänsla i kroppen eller har en aktiv infektion runt behandlingsområdet.
+            <div class="font-16">
+              <strong>Vi utför inte injektionsbehandling på dig som:</strong><br>
+              <ul class="list">
+                <li>är gravid eller ammar</li>
+                <li>är allergisk mot lidokain (bedövningsmedel)</li>
+                <li>har feber, sjukdomskänsla i kroppen eller har en aktiv infektion runt behandlingsområdet.</li>
+              </ul><br><br>
+              
+              <strong>Viktigt att tänka på innan din behandling:</strong><br>
+              <ul class="list">
+                <li>Undvik att röka precis innan behandling.</li>
+                <li>Undvik alkohol, ipren, Salicylsyra, Omega-3 ca en vecka före behandling.</li>
+                <li>Tar du blodförtunnande mediciner så som Waran, Trombyl eller Eliquis så kontakta kliniken innan du bokar din behandling samt kontakta din läkare för eventuell nedtrappning av dessa mediciner innan behandling.</li>
+                <li>Kom gärna osminkad</li>
+              </ul><br><br>
+          
+              <strong> Viktigt att tänka på efter din behandling:</strong><br>
+              <ul class="list">
+                <li>Undvik stark mat de första 6 timmarna efter behandling.</li>
+                <li>Undvik att röka minst 3h efter behandling.</li>
+                <li>Undvik att röra området som behandlats de närmsta 4 timmarna efter behandlingen</li>
+                <li>Låt huden vara och bär inget smink 24 timmar efter behandlingen då huden blir mer mottaglig för infektioner pga nålsticken.</li>
+                <li>Undvik extrem kyla/hetta upptill en vecka efter behandlingen</li>
+                <li>Avstå från alkohol och tung träning de närmsta 24 timmarna efter behandlingen</li>
+                <li>Undvik att sola på det behandlade området i ca 14 dagar och/eller använd högt solskydd.</li>
+              </ul>
             </div>
-            <div class="font-16">Viktigt att tänka på innan din behandling:<br>
-                <br>
-                - Undvik att röka precis innan behandling.<br>
-                <br>
-                - Undvik alkohol, ipren, Salicylsyra, Omega-3 ca en vecka före behandling.<br>
-                <br>
-                -Tar du blodförtunnande mediciner så som Waran, Trombyl eller Eliquis så kontakta kliniken innan du bokar din behandling samt kontakta din läkare för eventuell nedtrappning av dessa mediciner innan behandling.
-                <br><br>- Kom gärna osminkad
-            </div>
+
+
         </div>
       </div>
     </div>
