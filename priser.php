@@ -10,10 +10,11 @@
 <meta name="author" content="">
 <title>Bra pris. Legitimerade Tandläkare. Akut tandvård i Stockholm | Bandhagen Dental Care</title>
 <link rel="icon" type="image/png" href="images/favicon.png">
-<link href="css/bootstrap.min.css" rel="stylesheet">
-<link href="css/main.css" rel="stylesheet">
-<link href="fonts/css/fontello.css" rel="stylesheet">
-<link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="inner-pages/css/bootstrap.min.css" rel="stylesheet">
+<link href="inner-pages/css/main.css" rel="stylesheet">
+<link href="css/template.css" rel="stylesheet">
+<link href="inner-pages/fonts/css/fontello.css" rel="stylesheet">
+<link href="inner-pages/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
 <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -82,7 +83,7 @@
         <div class="row margin-btm40">
           <div class="col-md-12">
             <h1 class="text-center margin-btm40">Priser för Tandvård och Akut tandvård</h1>
-            <div class="text-center">Varje tandläkarmottagning kan välja att sätta sina egna priser, referenslistan är det högsta belopp som staten ersätter. Det innebär att man som patient kan behöva betala mellanskillnaden om mottagningens pris är högre än statens referenslista.<br>
+            <div class="text-center font-16">Varje tandläkarmottagning kan välja att sätta sina egna priser, referenslistan är det högsta belopp som staten ersätter. Det innebär att man som patient kan behöva betala mellanskillnaden om mottagningens pris är högre än statens referenslista.<br>
               <br>
               Vi är anslutna till försäkringskassan och därmed följer även deras referensprislista på det mesta. Vardagar efter kl 18:00 samt helger tillkommer ett akuttillägg.<br>
               <br>
@@ -221,9 +222,6 @@
                 </tr>
               </table>
             </div>
-            
-            
-            
           </div>
         </div>
       </div>
@@ -236,8 +234,8 @@
   <!-- Footer Ends --> 
 </div>
 <!-- Core Javascripts --> 
-<script type="text/javascript" src="js/jquery.js"></script> 
-<script type="text/javascript" src="js/bootstrap.min.js"></script> 
+<script type="text/javascript" src="inner-pages/js/jquery.js"></script> 
+<script type="text/javascript" src="inner-pages/js/bootstrap.min.js"></script> 
  
 <!-- Page Scroll Javascript --> 
 <script type="text/javascript">
@@ -247,9 +245,9 @@ jQuery('a[href^="#"]').click(function(e) {
     e.preventDefault(); 
 });
 </script>
-
-<script type="text/javascript" src="js/jquery.js"></script> 
-<script type="text/javascript" src="js/offcanvas.js"></script>
+<script type="text/javascript" src="js/navigation.js"></script>
+  <script type="text/javascript" src="inner-pages/js/jquery.js"></script> 
+  <script type="text/javascript" src="inner-pages/js/offcanvas.js"></script>
 
 </body>
 </html>

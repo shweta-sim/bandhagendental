@@ -1,97 +1,143 @@
-
 <script type="text/javascript" src="js/form-validations.js"></script>
-<header>
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-md-12 nopadding">
-<nav class="navbar navbar-default">
-  <button type="button" class="navbar-toggle pull-left" data-toggle="offcanvas" data-target="#main_menu" data-canvas=".ccm-page">
-  <div class="icon"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </div>
-  <span class="label">Meny</span> </button>
-  
-  <!-- Top Menu Start -->
-  <div class="top-menu hidden-xs">
-    <ul class="pull-left">
-      <li><a href="index.php"><i><img src="images/icon-hem.png" alt=""></i>Hem</a></li>
-      <li><a href="javascript:void();" data-toggle="modal" data-target="#akut"><i><img src="images/icon-akut.png" alt=""></i>Akut</a></li>
-      <li><a href="javascript:void();" data-toggle="modal" data-target="#lista-mig"><i><img src="images/icon-lista-mig.png" alt=""></i>Lista Mig</a></li>
-      <li><a href="https://bandhagen.opusdentalonline.com/" target="_blank"><i><img src="images/icon-boka-online.png" alt=""></i>Boka Online</a></li>
-
-      <!--<li><a href="javascript:void();" data-toggle="modal" data-target="#ring-mig"><i><img src="images/icon-ring-mig.png" alt=""></i>Ring Mig</a></li>-->
-    </ul>
-    <ul class="pull-right">      
-      <!--<li><div class="fb-like" data-href="https://www.facebook.com/www.jourtandlakare.se" data-layout="box_count" data-action="like" data-show-faces="true" data-share="false"></div>
-      <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-      </li>-->
-      <li><div class="phoneno"><i><img src="images/icon-phone.png" alt=""></i>08-647 86 20, 073-75 75 755</div></li>
-      <li><a href="https://www.facebook.com/www.jourtandlakare.se" target="_blank"><i><img src="images/icon-fb.png" alt=""></i><div>Hitta oss på</div></a></li>
-    </ul>
-  </div>
-  <!-- Top Menu Ends --> 
-  
-</nav>
-<nav id="main_menu" class="navmenu navmenu-default navmenu-fixed-left offcanvas" role="navigation">
-  <div class="sidebar-wrapper">
-    <ul class="sidebar-nav">
-      <li><a href="index.php">Hem</a></li>
-      <li><a href="javascript:void();">Om Oss</a>
-        <ul>
-          <li><a href="bandhagen.php">- Bandhagen</a></li>
-          <li><a href="hasselby.php">- Hässelby</a></li>
-        </ul>
-      </li>
-      <li><a href="behandlingar.php">Behandlingar</a></li>
-      <li><a href="priser.php">Priser</a>
-        <ul>
-          <li><a href="prislista.php">- Prislista</a></li>
-          <li><a href="betalningsalternativ.php">- Betalningsalternativ</a></li>
-          <li><a href="tandvardsforsakring.php">- Tandvårdsförsäkring</a></li>
-        </ul>
-      </li>
-      <li><a href="erbjudanden.php">Erbjudanden</a></li>
-      <li><a href="kontakt.php">Kontakt</a></li>
-    </ul>
-    <hr>
-    <ul class="sidebar-nav">
-      <li><a href="akut.php"><i><img src="images/icon-akut-white.png" alt=""></i>Akut</a></li>
-      <li><a href="lista-mig.php"><i><img src="images/icon-lista-mig-white.png" alt=""></i>Lista Mig</a></li>
-      <li><a href="ring-mig.php"><i><img src="images/icon-ring-mig-white.png" alt=""></i>Ring Mig</a></li>
-      <li><a href="https://bandhagen.opusdentalonline.com/" target="_blank"><i><img src="images/icon-boka-online-white.png" alt=""></i>Boka Online</a></li>
-    </ul>
-    <hr>
-    <ul class="sidebar-nav">
-      <!--<li><a href="https://www.facebook.com/www.jourtandlakare.se" target="_blank"><i class="social icon-facebook"></i>Som Oss</a></li>-->      <li><div class="fb-like" data-href="https://www.facebook.com/www.jourtandlakare.se" data-layout="box_count" data-action="like" data-show-faces="true" data-share="false"></div>
-      <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-      </li>
-    </ul>
-    <div class="margin-btm20"></div>
-  </div>
-</nav>
-</div>
+<div class="responsive-header-main">
+    <div class="responsive-menubar-dental">
+        <div class="responsive-logo-dental"><a href="index.html" title="">
+                <img src="images/logo.png" alt="" /></a>
         </div>
-      </div>
-    </header> 
+        <div class="menu-dental-action">
+            <div class="menu-dental-openmenu">
+                <img src="images/nav_icon.png" alt="" />
+            </div>
+            <div class="menu-dental-closemenu">
+                <img src="images/nav_icon_close.png" alt="" />
+            </div>
+        </div>
+    </div>
+    <div class="responsive-dental-opened">
+        <div class="responsive-dental-menu-main">
+            <ul>
+                <li>
+                    <a href="index.php" title="">Hem</a>
+                </li>
+                <li>
+                    <a href="javascript:void();" title="">Om Oss</a>
+                    <ul>
+                        <li><a href="bandhagen.php" title="">- Bandhagen</a></li>
+                        <li><a href="hasselby.php" title="">- Hässelby</a></li>                                   
+                    </ul>
+                </li>
+                <li>
+                    <a href="behandlingar.php" title="">Behandlingar</a>
+                    <ul>
+                      <li><a href="behandlingar.php#forebyggande">Förebyggande Tandvård</a></li>
+                      <li><a href="behandlingar.php#fyllningar">Fyllningar</a></li>
+                      <li><a href="behandlingar.php#implantat">Implantat</a></li>
+                      <li><a href="behandlingar.php#kronor">Kronor & Broar</a></li>
+                      <li><a href="behandlingar.php#tandlossning">Tandlossning</a></li>
+                      <li><a href="behandlingar.php#rotbehandlingar">Rotbehandlingar</a></li>
+                      <li><a href="behandlingar.php#tandblekning">Tandblekning</a></li>
+                      <li><a href="behandlingar.php#airflow">Airflow</a></li>
+                      <li><a href="behandlingar.php#lappforstoring">Läppförstoring och Fillerbehandling</a></li>
+                      <li><a href="behandlingar.php#rynkbehandling">Rynkbehandling med Botox</a></li>
+                      <li><a href="behandlingar.php#invisalign">Invisalign</a></li>
+                      <li><a href="">Fillers and Botox</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="priser.php" title="">Priser</a>
+                    <ul>
+                        <li><a href="prislista.php" title="">- Prislista</a></li>
+                        <li><a href="betalningsalternativ.php" title="">- Betalningsalternativ</a></li>
+                        <li><a href="tandvardsforsakring.php" title="">- Tandvårdsförsäkring</a></li>
+                    </ul>
+                </li>
+                <li><a href="erbjudanden.php" title="">Erbjudanden</a></li>
+                <li><a href="kontakt.php" title="">Kontakt</a></li>
+            </ul>
+        </div>
+        <div class="btn-extars">
+            <ul class="account-btns">
+                <li class="signup-popup"><a href="akut.php"><i class="fas fa-tooth"></i> Akut</a></li>
+                <li class="signup-popup"><a href="lista-mig.php"><i class="fas fa-clipboard-list"></i> Lista Mig</a></li>
+                <li class="signup-popup"><a href="ring-mig.php"><i class="fas fa-mobile-alt"></i> Ring Mig</a></li>
+                <li class="signup-popup"><a href="https://bandhagen.opusdentalonline.com/" target="_blank"><i class="fas fa-calendar-alt"></i> Boka Online</a></li>
+            </ul>
+        </div><!-- Btn Extras -->
+    </div>
+</div>
+
+<header class="stick-top forsticky">
+    <div class="menu-sec-dental">
+        <div class="container-fluid padd25">
+            <div class="logo">
+                <a href="index.php" title=""><img class="hidesticky" src="images/logo.png" alt="" /><img
+                        class="showsticky" src="images/logo_colored.png" alt="" /></a>
+            </div><!-- Logo -->
+            <div class="btn-extars">
+                <ul class="account-btns">
+                    <li class="signup-popup">
+                        <a href="javascript:void();" data-toggle="modal" data-target="#akut"><i class="fas fa-tooth"></i> Akut</a>
+                    </li>
+                    <li class="signup-popup">
+                        <a href="javascript:void();" data-toggle="modal" data-target="#lista-mig"><i class="fas fa-clipboard-list"></i> Lista Mig</a>
+                    </li>
+                    <li class="signup-popup">
+                        <a href="javascript:void();" data-toggle="modal" data-target="#ring-mig"><i class="fas fa-mobile-alt"></i> Ring Mig</a>
+                    </li>
+                    <li class="signup-popup"><a href="https://bandhagen.opusdentalonline.com/" target="_blank"><i class="fas fa-calendar-alt"></i> Boka Online</a></li>
+                </ul>
+            </div><!-- Btn Extras -->
+            <nav>
+                <ul>
+                    <li>
+                        <a href="index.php" title="">Hem</a>
+                    </li>
+                    <li class="menu-item-has-children nav-om">
+                        <a href="javascript:void();" class="position-relative" title="">Om Oss</a>
+                        <ul>
+                            <li><a href="bandhagen.php" title="">Bandhagen</a></li>
+                            <li><a href="hasselby.php" title="">Hässelby</a></li>                                   
+                        </ul>
+                    </li>
+                    <li class="menu-item-has-children nav-behandlingar">
+                        <a href="behandlingar.php" class="position-relative" title="">Behandlingar</a>
+                        <ul>
+                          <li><a href="behandlingar.php#forebyggande">Förebyggande Tandvård</a></li>
+                          <li><a href="behandlingar.php#fyllningar">Fyllningar</a></li>
+                          <li><a href="behandlingar.php#implantat">Implantat</a></li>
+                          <li><a href="behandlingar.php#kronor">Kronor & Broar</a></li>
+                          <li><a href="behandlingar.php#tandlossning">Tandlossning</a></li>
+                          <li><a href="behandlingar.php#rotbehandlingar">Rotbehandlingar</a></li>
+                          <li><a href="behandlingar.php#tandblekning">Tandblekning</a></li>
+                          <li><a href="behandlingar.php#airflow">Airflow</a></li>
+                          <li><a href="behandlingar.php#lappforstoring">Läppförstoring och Fillerbehandling</a></li>
+                          <li><a href="behandlingar.php#rynkbehandling">Rynkbehandling med Botox</a></li>
+                          <li><a href="behandlingar.php#invisalign">Invisalign</a></li>
+                          <li><a href="filler-and-botox.php">Fillers and Botox</a></li>
+                        </ul>
+                    </li>
+                    <li class="menu-item-has-children nav-priser">
+                        <a href="priser.php" class="position-relative" title="">Priser</a>
+                        <ul>
+                            <li><a href="prislista.php" title="">Prislista</a></li>
+                            <li><a href="betalningsalternativ.php" title="">Betalningsalternativ</a></li>
+                            <li><a href="tandvardsforsakring.php" title="">Tandvårdsförsäkring</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="erbjudanden.php" title="">Erbjudanden</a></li>
+                    <li><a href="kontakt.php" title="">Kontakt</a></li>
+                </ul>
+            </nav><!-- Menus -->
+        </div>
+    </div>
+</header>
 <!-- Modal Akut Start -->
 <div class="modal fade bs-example-modal-lg" id="akut" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
   <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
       <div class="modal-body">
-        <div class="model-icon"><img src="images/icon-akut-white2.png" alt=""></div>
+          <div class="model-icon"><img src="inner-pages/images/icon-akut-white2.png" alt=""></div>
         <h4 class="text-center">Välkommen till vår akutmottagning i Hässelby och Högdalen Centrum.</h4>
         <h5 class="text-center text-grey margin-btm20">Lider du av akut tandvärk eller har en trasig tand/tappad fyllning? eller tandinfektion??<br>
           Kontakta Oss snarast för bokning av tid. Vänta inte tills senare, värk och smärtor tilltar ofta om man skjuter på tandläkarbesöket.</h5>
@@ -144,7 +190,7 @@ Vi tar emot även patienter från Vällingby, Spånga, Järfälla, Solna och Bro
     <div class="modal-content">
       <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
       <div class="modal-body">
-        <div class="model-icon"><img src="images/icon-lista-mig-white2.png" alt=""></div>
+          <div class="model-icon"><img src="inner-pages/images/icon-lista-mig-white2.png" alt=""></div>
         <h4 class="text-center">Passa på att lista dig som patient och boka tid redan nu.</h4>
         <h5 class="text-center text-grey margin-btm20">Välkommen till oss på Bandhagen Dental Care AB som är kopplade till försäkringskassan med förstklassig service, korta väntetider och bra priser.</h5>
           
@@ -194,9 +240,9 @@ Speciella önskemål / Övrigt: $onskemal
     <div class="modal-content">
       <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
       <div class="modal-body">
-        <div class="model-icon"><img src="images/icon-ring-mig-white2.png" alt=""></div>
+          <div class="model-icon"><img src="inner-pages/images/icon-ring-mig-white2.png" alt=""></div>
         <h4 class="text-center">Fyll i dina uppgifter så ringer vi snart upp dig!</h4>
-        <h5 class="text-center text-grey margin-btm40">Telefontider Måndag-Torsdag 9.00-18.00,  Fredag 9.00-13:00 </h5>
+        <h5 class="text-center text-grey margin-btm20">Telefontider Måndag-Torsdag 9.00-18.00,  Fredag 9.00-13:00 </h5>
         
         <?php include("form-ringmig.php"); ?>
 

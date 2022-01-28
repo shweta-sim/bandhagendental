@@ -20,7 +20,9 @@
           </div>
             <div class="col-md-12 text-center">
               <div class="form-group">
-                <button type="submit" class="btn btn-default" name="btn-ringmig" id="btn-ringmig">Ring mig</button>
+                  <div class="inner-links-modal">
+                    <button type="submit" class="links-modal" name="btn-ringmig" id="btn-ringmig">Ring mig</button>
+                  </div>
               </div>
             </div>
           </div>

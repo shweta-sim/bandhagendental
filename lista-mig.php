@@ -10,10 +10,11 @@
 <meta name="author" content="">
 <title>Akut tandvård, Tandläkare i Älvsjö, Huddinge, Farsta & Enskede | Bandhagen Dental Care</title>
 <link rel="icon" type="image/png" href="images/favicon.png">
-<link href="css/bootstrap.min.css" rel="stylesheet">
-<link href="css/main.css" rel="stylesheet">
-<link href="fonts/css/fontello.css" rel="stylesheet">
-<link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="inner-pages/css/bootstrap.min.css" rel="stylesheet">
+<link href="inner-pages/css/main.css" rel="stylesheet">
+<link href="css/template.css" rel="stylesheet">
+<link href="inner-pages/fonts/css/fontello.css" rel="stylesheet">
+<link href="inner-pages/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
 <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -102,8 +103,8 @@
   <!-- Footer Ends --> 
 </div>
 <!-- Core Javascripts --> 
-<script type="text/javascript" src="js/jquery.js"></script> 
-<script type="text/javascript" src="js/bootstrap.min.js"></script> 
+<script type="text/javascript" src="inner-pages/js/jquery.js"></script> 
+<script type="text/javascript" src="inner-pages/js/bootstrap.min.js"></script> 
  
 <!-- Page Scroll Javascript --> 
 <script type="text/javascript">
@@ -113,11 +114,10 @@ jQuery('a[href^="#"]').click(function(e) {
     e.preventDefault(); 
 });
 </script>
-
-<script type="text/javascript" src="js/jquery.js"></script> 
-<script type="text/javascript" src="js/offcanvas.js"></script>
-
-<script type="text/javascript" src="js/form-validations.js"></script>
+ 
+<script type="text/javascript" src="inner-pages/js/offcanvas.js"></script>
+<script type="text/javascript" src="js/navigation.js"></script>
+<script type="text/javascript" src="inner-pages/js/form-validations.js"></script>
 
 </body>
 </html>

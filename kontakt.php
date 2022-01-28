@@ -10,10 +10,11 @@
 <meta name="author" content="">
 <title>Kontakt för tandvård och akut tandvård | Bandhagen Dental Care</title>
 <link rel="icon" type="image/png" href="images/favicon.png">
-<link href="css/bootstrap.min.css" rel="stylesheet">
-<link href="css/main.css" rel="stylesheet">
-<link href="fonts/css/fontello.css" rel="stylesheet">
-<link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="inner-pages/css/bootstrap.min.css" rel="stylesheet">
+<link href="inner-pages/css/main.css" rel="stylesheet">
+<link href="css/template.css" rel="stylesheet">
+<link href="inner-pages/fonts/css/fontello.css" rel="stylesheet">
+<link href="inner-pages/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
 <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -85,37 +86,37 @@
             <h1 class="text-center">Kontakta Tandläkare i Bandhagen</h1>
             <div class="row margin-btm20">
               <div class="col-md-6">
-                <div><img src="images/map-bandhagen.png" alt="" class="img-responsive"></div>
+                  <div><img src="images/map-bandhagen.png" alt="" class="img-responsive"></div>
                 <div class="contact-info">
-                  <h4 class="text-grey">Vi tar emot även patienter från Älvsjö, Huddinge, Farsta och Enskede</h4>
+                  <h3 class="text-grey">Vi tar emot även patienter från Älvsjö, Huddinge, Farsta och Enskede</h3>
                   <div class="margin-btm20">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4849.934115006032!2d18.044643703356144!3d59.26370800364541!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f77616e99611f%3A0x5b57c10a023fcfdb!2sHarpsundsv%C3%A4gen+76%2C+124+58+Bandhagen%2C+Sweden!5e0!3m2!1sen!2sin!4v1444387271661" width="100%" height="175" frameborder="0" allowfullscreen></iframe>
                   </div>
                   <div>
                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
                       <tr>
-                        <td width="35%" valign="top"><strong>Telefon:</strong></td>
+                        <td width="35%" valign="top"><strong class="text-brown">Telefon:</strong></td>
                         <td width="65%" valign="top">08-647 86 20</td>
                       </tr>
                       <tr>
-                        <td valign="top"><strong>Akut:</strong></td>
+                        <td valign="top"><strong class="text-brown">Akut:</strong></td>
                         <td valign="top">073-75 75 755</td>
                       </tr>
                       <tr>
-                        <td valign="top"><strong>E-post:</strong></td>
+                        <td valign="top"><strong class="text-brown">E-post:</strong></td>
                         <td valign="top"><a href="mailto:kontakt@bandhagendental.se">kontakt@bandhagendental.se</a></td>
                       </tr>
                       <tr>
-                        <td valign="top"><strong>Address:</strong></td>
+                        <td valign="top"><strong class="text-brown">Address:</strong></td>
                         <td valign="top">Harpsundsvägen 76 2 Tr<br>
                           124 58 Bandhagen-Stockholm (Bredvid MatDax)</td>
                       </tr>
                       <tr>
-                        <td valign="top"><strong>Betalning Bankgiro:</strong></td>
+                        <td valign="top"><strong class="text-brown">Betalning Bankgiro:</strong></td>
                         <td valign="top">484-3637</td>
                       </tr>
                       <tr>
-                        <td valign="top"><strong>Öppettider:</strong></td>
+                        <td valign="top"><strong class="text-brown">Öppettider:</strong></td>
                         <td valign="top">Måndag-Torsdag 9.00-18.00<br>
                           Fredag 9.00-17:00 </td>
                       </tr>
@@ -124,37 +125,37 @@
                 </div>
               </div>
               <div class="col-md-6">
-                <div><img src="images/map-hasselby.png" alt="" class="img-responsive"></div>
+                  <div><img src="images/map-hasselby.png" alt="" class="img-responsive"></div>
                 <div class="contact-info">
-                  <h4 class="text-grey">Kontakta Tandläkare och Akut Tandläkare i Hässelby</h4>
+                  <h3 class="text-grey">Kontakta Tandläkare och Akut Tandläkare i Hässelby</h3>
                   <div class="margin-btm20">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4065.3192281772235!2d17.81185354858316!3d59.37201966803657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f9ff97337c451%3A0x6791a42aa8f6a01e!2sValfrid+Brodds+V%C3%A4g+33%2C+165+71+H%C3%A4sselby%2C+Sweden!5e0!3m2!1sen!2sin!4v1444387548854" width="100%" height="175" frameborder="0" allowfullscreen></iframe>
                   </div>
                   <div>
                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
                       <tr>
-                        <td width="35%" valign="top"><strong>Telefon:</strong></td>
+                        <td width="35%" valign="top"><strong class="text-brown">Telefon:</strong></td>
                         <td width="65%" valign="top">08-38 11 83</td>
                       </tr>
                       <tr>
-                        <td valign="top"><strong>Akut/Jour:</strong></td>
+                        <td valign="top"><strongclass="text-brown">Akut/Jour:</strong></td>
                         <td valign="top">073-75 75 75 5</td>
                       </tr>
                       <tr>
-                        <td valign="top"><strong>E-post:</strong></td>
+                        <td valign="top"><strong class="text-brown">E-post:</strong></td>
                         <td valign="top"><a href="mailto:kontakt@bandhagendental.se">kontakt@bandhagendental.se</a></td>
                       </tr>
                       <tr>
-                        <td valign="top"><strong>Address:</strong></td>
+                        <td valign="top"><strong class="text-brown">Address:</strong></td>
                         <td valign="top">Valfrid Brodds Väg 33<br>
                           165 71 Hässelby Stockholm</td>
                       </tr>
                       <tr>
-                        <td valign="top"><strong>Betalning Bankgiro:</strong></td>
+                        <td valign="top"><strong class="text-brown">Betalning Bankgiro:</strong></td>
                         <td valign="top">484-3637</td>
                       </tr>
                       <tr>
-                        <td valign="top"><strong>Öppettider:</strong></td>
+                          <td valign="top"><strong class="text-brown">Öppettider:</strong></td>
                         <td valign="top">Måndag-Torsdag 18.00-21:00<br>
                           Fredag-Söndag 9:00-21:00</td>
                       </tr>
@@ -165,7 +166,7 @@
             </div>
             <div class="text-center"><em>Öppettider under sommaren kan variera, vänligen ring för mer information om öppettiderna!</em></div>
             <hr>
-            <h4 class="text-grey text-center margin-btm40">Kontakta oss genom att ringa, mejla eller fylla i formuläret nedan och skicka</h4>
+            <h4 class="text-green text-center margin-btm40">Kontakta oss genom att ringa, mejla eller fylla i formuläret nedan och skicka</h4>
             <div class="row margin-btm40">
               <div class="col-md-8 col-md-offset-2">
                 <form action="thanks.php" method="post" name="contact" id="contact" onSubmit="return validate_contact(this)">
@@ -211,7 +212,9 @@
               <input type="checkbox" id="accept" name="accept" class="checkbox"> Jag accepterar  <a href="javascript:void();" data-toggle="modal" data-target="#data-policy">dataskyddspolitiken!</a>.
           </div>
                   <div class="text-center">
-                    <button type="submit" class="btn btn-default" name="btn-message" id="btn-message">Skicka meddelande</button>
+                      <div class="inner-links width-200">
+                    <button type="submit" class="links" name="btn-message" id="btn-message">Skicka meddelande</button>
+                      </div>
                   </div>
 
                 </form>
@@ -232,11 +235,12 @@
   <!-- Footer Ends --> 
 </div>
 <!-- Core Javascripts --> 
-<script type="text/javascript" src="js/jquery.js"></script> 
-<script type="text/javascript" src="js/bootstrap.min.js"></script> 
-<script type="text/javascript" src="js/form-validations.js"></script> 
-<script type="text/javascript" src="js/jquery.js"></script> 
-<script type="text/javascript" src="js/offcanvas.js"></script> 
+<script type="text/javascript" src="inner-pages/js/jquery.js"></script> 
+<script type="text/javascript" src="inner-pages/js/bootstrap.min.js"></script> 
+<script type="text/javascript" src="js/navigation.js"></script> 
+<script type="text/javascript" src="inner-pages/js/form-validations.js"></script> 
+<script type="text/javascript" src="inner-pages/js/jquery.js"></script> 
+<script type="text/javascript" src="inner-pages/js/offcanvas.js"></script> 
 
 
 

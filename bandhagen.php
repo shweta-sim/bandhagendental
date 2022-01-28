@@ -10,13 +10,14 @@
 <meta name="author" content="">
 <title>Akut tandvård, Tandläkare i Sthlm, Högdalen. | Bandhagen Dental Care</title>
 <link rel="icon" type="image/png" href="images/favicon.png">
-<link href="css/bootstrap.min.css" rel="stylesheet">
-<link href="css/main.css" rel="stylesheet">
-<link href="fonts/css/fontello.css" rel="stylesheet">
-<link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-<link href="css/carousel.css" rel="stylesheet">
-<link href="css/carousel.transitions.css" rel="stylesheet">
-<link href="css/jquery.slider.css" rel="stylesheet">
+<link href="inner-pages/css/bootstrap.min.css" rel="stylesheet">
+<link href="inner-pages/css/main.css" rel="stylesheet">
+<link href="inner-pages/fonts/css/fontello.css" rel="stylesheet">
+<link href="inner-pages/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="inner-pages/css/carousel.css" rel="stylesheet">
+<link href="css/template.css" rel="stylesheet">
+<link href="inner-pages/css/carousel.transitions.css" rel="stylesheet">
+<link href="inner-pages/css/jquery.slider.css" rel="stylesheet">
 
 <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -85,10 +86,11 @@
         <div class="row">
           <div class="col-md-12">
             <h1 class="text-center">Tandläkare i Bandhagen</h1>
-            <h4 class="text-center text-grey margin-btm40">Vi tar emot även patienter från Älvsjö, Huddinge, Farsta och Enskede.</h4>
-            <div class="text-center">Välkommen till vår mottagning som ligger i Högdalen Centrum. Bandhagen Dental Care erbjuder allmän traditionell tandvård och estetisk tandvård för ett vackert leende samt kirurgisk behandling för bl.a implantat. Många lider svårt av sin tandvårdsrädsla och det blir en ond cirkel. Vi tar gärna emot dig med tandvårdsrädsla. Vårt mål är att få våra patienter att känna sig trygga och väl omhändertagna.<br>
+            <p class="text-center text-brown font-24 margin-btm40">Vi tar emot även patienter från Älvsjö, Huddinge, 
+                Farsta och Enskede.</p>
+            <div class="text-center font-16">Välkommen till vår mottagning som ligger i Högdalen Centrum. Bandhagen Dental Care erbjuder allmän traditionell tandvård och estetisk tandvård för ett vackert leende samt kirurgisk behandling för bl.a implantat. Många lider svårt av sin tandvårdsrädsla och det blir en ond cirkel. Vi tar gärna emot dig med tandvårdsrädsla. Vårt mål är att få våra patienter att känna sig trygga och väl omhändertagna.<br>
               <br>
-              I September 2011 flyttade vi till en mycket fräsch mottagning i Högdalen Centrum, ett stenkast ifrån T- banastationen. Titta gärna på den korta videopresentationen samt några bilder på oss genom att klicka här nedan. Vi är medlemmar av Sveriges Tandläkarförbund och anslutna till Privattandläkarna och Försäkringskassan.<br>
+              I September 2011 flyttade vi till en mycket fräsch mottagning i Högdalen Centrum, ett stenkast ifrån T- banastationen. Titta gärna på den korta videopresentationen samt några bilder på oss genom att klicka här nedan. Vi är anslutna till Försäkringskassan.<br>
               <br>
               Det finns gott om gratis parkeringsplatser i centrum samt utanför mottagningen. Om du vill att vi ska kontakta dig för mer information ,vill registrera dig hos oss eller boka tid, vänligen fyll i formuläret längst upp under lista mig eller ring mig.</div>
           </div>
@@ -96,12 +98,20 @@
       </div>
       <div class="container">
         <div class="row">
-          <div class="col-sm-6 margin-btm30"><img src="images/img-bandhagen1.jpg" alt="" class="img-responsive"></div>
-          <div class="col-sm-6 margin-btm30"><img src="images/img-bandhagen4.jpg" alt="" class="img-responsive"></div>
+          <div class="col-sm-6 margin-btm30"><img src="inner-pages/images/img-bandhagen1.jpg" alt="" class="img-responsive"></div>
+          <div class="col-sm-6 margin-btm30"><img src="inner-pages/images/img-bandhagen4.jpg" alt="" class="img-responsive"></div>
         </div>
         <div class="row">          
-          <div class="col-sm-6 margin-btm30"><img src="images/img-bandhagen5.jpg" alt="" class="img-responsive"></div>
-          <div class="col-sm-6 margin-btm30"><img src="images/img-bandhagen6.jpg" alt="" class="img-responsive"></div>
+          <div class="col-sm-6 margin-btm30"><img src="inner-pages/images/img-bandhagen5.jpg" alt="" class="img-responsive"></div>
+          <div class="col-sm-6 margin-btm30"><img src="inner-pages/images/img-bandhagen6.jpg" alt="" class="img-responsive"></div>
+        </div>
+        <div class="row">          
+          <div class="col-sm-6 margin-btm30"><img src="inner-pages/images/img-bandhagen10.jpg" alt="" class="img-responsive"></div>
+          <div class="col-sm-6 margin-btm30"><img src="inner-pages/images/img-bandhagen11.jpg" alt="" class="img-responsive"></div>
+        </div>
+        <div class="row">          
+          <div class="col-sm-6 margin-btm30"><img src="inner-pages/images/img-bandhagen9.png" alt="" class="img-responsive"></div>
+          <div class="col-sm-6 margin-btm30"><img src="inner-pages/images/img-bandhagen8.jpg" alt="" class="img-responsive"></div>
         </div>
       </div>
     </section>
@@ -136,12 +146,12 @@
   <!-- Footer Ends --> 
 </div>
 <!-- Core Javascripts --> 
-<script type="text/javascript" src="js/jquery.js"></script> 
-<script type="text/javascript" src="js/bootstrap.min.js"></script> 
+<script type="text/javascript" src="inner-pages/js/jquery.js"></script> 
+<script type="text/javascript" src="inner-pages/js/bootstrap.min.js"></script> 
 
 <!-- Carousel Javascript --> 
-<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script> 
-<script type="text/javascript" src="js/jquery.carousel.js"></script> 
+<script type="text/javascript" src="inner-pages/js/jquery-1.9.1.min.js"></script> 
+<script type="text/javascript" src="inner-pages/js/jquery.carousel.js"></script> 
 <script type="text/javascript">
 	$(document).ready(function($) {
     	$("#team").owlCarousel({
@@ -157,18 +167,18 @@
 		});
     });
 </script> 
-<script src="js/jquery.slider.min.js" type="text/javascript"></script> 
+<script src="inner-pages/js/jquery.slider.min.js" type="text/javascript"></script> 
 <script type="text/javascript">
 	(function($){
 		$(document).ready(function() {
 			var image_array = new Array();
 			image_array = [
-				{image: 'images/img-team1.jpg', link_url: 'images/img-team1.jpg', link_rel: 'prettyPhoto'},
-				{image: 'images/img-team2.jpg', link_url: 'images/img-team2.jpg', link_rel: 'prettyPhoto'},
-				{image: 'images/img-team3.jpg', link_url: 'images/img-team3.jpg', link_rel: 'prettyPhoto'},
-				{image: 'images/img-team4.jpg', link_url: 'images/img-team4.jpg', link_rel: 'prettyPhoto'},
-				{image: 'images/img-team5.jpg', link_url: 'images/img-team5.jpg', link_rel: 'prettyPhoto'},
-				{image: 'images/img-team6.jpg', link_url: 'images/img-team6.jpg', link_rel: 'prettyPhoto'},
+				{image: 'inner-pages/images/img-team1.jpg', link_url: 'inner-pages/images/img-team1.jpg', link_rel: 'prettyPhoto'},
+				{image: 'inner-pages/images/img-team2.jpg', link_url: 'inner-pages/images/img-team2.jpg', link_rel: 'prettyPhoto'},
+				{image: 'inner-pages/images/img-team3.jpeg', link_url: 'inner-pages/images/img-team3.jpeg', link_rel: 'prettyPhoto'},
+				{image: 'inner-pages/images/img-team4.jpg', link_url: 'inner-pages/images/img-team4.jpg', link_rel: 'prettyPhoto'},
+				{image: 'inner-pages/images/img-team5.jpg', link_url: 'inner-pages/images/img-team5.jpg', link_rel: 'prettyPhoto'},
+				// {image: 'inner-pages/images/img-team6.jpg', link_url: 'inner-pages/images/img-team6.jpg', link_rel: 'prettyPhoto'},
 				//{image: 'content/our_team/7.jpg', link_url: 'content/our_team/7big.jpg', link_rel: 'prettyPhoto'}
 			];
 			$('#team-slider').content_slider({		// bind plugin to div id="slider1"
@@ -187,7 +197,7 @@
 		});
 	})(jQuery);
 </script> 
-<script type="text/javascript" src="js/jquery.js"></script> 
+<script type="text/javascript" src="js/navigation.js"></script>
 <script type="text/javascript" src="js/offcanvas.js"></script>
 </body>
 </html>

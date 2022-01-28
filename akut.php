@@ -10,10 +10,11 @@
 <meta name="author" content="">
 <title>Akut tandvård, Tandläkare i Älvsjö, Huddinge, Farsta & Enskede | Bandhagen Dental Care</title>
 <link rel="icon" type="image/png" href="images/favicon.png">
-<link href="css/bootstrap.min.css" rel="stylesheet">
-<link href="css/main.css" rel="stylesheet">
-<link href="fonts/css/fontello.css" rel="stylesheet">
-<link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="inner-pages/css/bootstrap.min.css" rel="stylesheet">
+<link href="inner-pages/css/main.css" rel="stylesheet">
+<link href="css/template.css" rel="stylesheet">
+<link href="inner-pages/fonts/css/fontello.css" rel="stylesheet">
+<link href="inner-pages/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
 <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -86,8 +87,8 @@
         <h5 class="text-center text-grey margin-btm40">Lider du av akut tandvärk eller har en trasig tand/tappad fyllning? eller tandinfektion??<br>
           Kontakta Oss snarast för bokning av tid. Vänta inte tills senare, värk och smärtor tilltar ofta om man skjuter på tandläkarbesöket.</h5>
         <div class="row text-center margin-btm20">
-          <div class="col-md-4 margin-btm10"><img src="images/icon-bullet.jpg" alt=""> Hos oss får du alltid en akuttid samma dag</div>
-          <div class="col-md-4 margin-btm10"><img src="images/icon-bullet.jpg" alt=""> Vi erbjuder kvälls- och helgtider</div>
+            <div class="col-md-4 margin-btm10"><img src="inner-pages/images/icon-bullet.jpg" alt=""> Hos oss får du alltid en akuttid samma dag</div>
+            <div class="col-md-4 margin-btm10"><img src="inner-pages/images/icon-bullet.jpg" alt=""> Vi erbjuder kvälls- och helgtider</div>
           <div class="col-md-4"><img src="images/icon-bullet.jpg" alt=""> Vi har även stor vana med tandvårdsrädda.</div>
         </div>
         <div class="text-center margin-btm20">Endast vuxentandvård.<br>
@@ -110,8 +111,8 @@ Vi tar emot även patienter från Vällingby, Spånga, Järfälla, Solna och Bro
   <!-- Footer Ends --> 
 </div>
 <!-- Core Javascripts --> 
-<script type="text/javascript" src="js/jquery.js"></script> 
-<script type="text/javascript" src="js/bootstrap.min.js"></script> 
+<script type="text/javascript" src="inner-pages/js/jquery.js"></script> 
+<script type="text/javascript" src="inner-pages/js/bootstrap.min.js"></script> 
  
 <!-- Page Scroll Javascript --> 
 <script type="text/javascript">
@@ -122,10 +123,10 @@ jQuery('a[href^="#"]').click(function(e) {
 });
 </script>
 
-<script type="text/javascript" src="js/jquery.js"></script> 
-<script type="text/javascript" src="js/offcanvas.js"></script>
+<script type="text/javascript" src="inner-pages/js/offcanvas.js"></script>
+<script type="text/javascript" src="js/navigation.js"></script>
 
-<script type="text/javascript" src="js/form-validations.js"></script>
+<script type="text/javascript" src="inner-pages/js/form-validations.js"></script>
 
 </body>
 </html>

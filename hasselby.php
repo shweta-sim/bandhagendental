@@ -10,10 +10,11 @@
 <meta name="author" content="">
 <title>Akut tandvård, Tandläkare i Sthlm, Hässelby. | Bandhagen Dental Care</title>
 <link rel="icon" type="image/png" href="images/favicon.png">
-<link href="css/bootstrap.min.css" rel="stylesheet">
-<link href="css/main.css" rel="stylesheet">
-<link href="fonts/css/fontello.css" rel="stylesheet">
-<link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="inner-pages/css/bootstrap.min.css" rel="stylesheet">
+<link href="inner-pages/css/main.css" rel="stylesheet">
+<link href="css/template.css" rel="stylesheet">
+<link href="inner-pages/fonts/css/fontello.css" rel="stylesheet">
+<link href="inner-pages/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
 <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -84,13 +85,14 @@
         <div class="row">
           <div class="col-md-12">
             <h1 class="text-center">Tandläkare och akut tandvård i Hässelby</h1>
-            <h4 class="text-center text-grey margin-btm40">Vi tar emot även patienter från Vällingby, Spånga, Järfälla, Solna och Bromma.</h4>
-            <div class="text-center">
+            <p class="text-center text-brown font-24 margin-btm40">Vi tar emot även patienter från Vällingby, 
+                Spånga, Järfälla, Solna och Bromma.</p>
+            <div class="text-center font-16">
             	Välkommen till vår akutmottagning i Hässelby, Lider du av akut tandvärk eller har en trasig tand/tappad fyllning? eller tandinfektion??<br>
 Kontakta Akuttandvård Dental Care snarast för bokning av tid. Vänta inte tills senare, värk och smärtor tilltar ofta om man skjuter på tandläkarbesöket.<br>
 Hos oss får du alltid en akuttid samma dag. Vi erbjuder kvälls- och helgtider<br><br>
-<strong>Måndag - Torsdag 18:00 – 20:00</strong><br>
-<strong>Fredag - Söndag 9:00 – 20:00</strong><br><br>
+<strong class="text-brown">Måndag - Torsdag 18:00 – 20:00</strong><br>
+<strong class="text-brown">Fredag - Söndag 9:00 – 20:00</strong><br><br>
 Vi har även stor vana med tandvårdsrädda.<br>
 <br>
 Endast vuxentandvård.<br>
@@ -104,10 +106,10 @@ Vardagar efter kl 18:00 samt helger tillkommer ett akuttillägg.
       
       <div class="container-fluid">
         <div class="row">
-          <div class="col-sm-3 nopadding"><img src="images/img-hasselby1.jpg" alt="" class="img-responsive"></div>
-          <div class="col-sm-3 nopadding"><img src="images/img-hasselby2.jpg" alt="" class="img-responsive"></div>
-          <div class="col-sm-3 nopadding"><img src="images/img-hasselby3.jpg" alt="" class="img-responsive"></div>
-          <div class="col-sm-3 nopadding"><img src="images/img-hasselby4.jpg" alt="" class="img-responsive"></div>
+            <div class="col-sm-3 mb-30 nopadding"><img src="inner-pages/images/img-hasselby1.jpg" alt="" class="img-responsive"></div>
+            <div class="col-sm-3 mb-30 nopadding"><img src="inner-pages/images/img-hasselby2.jpg" alt="" class="img-responsive"></div>
+            <div class="col-sm-3 mb-30 nopadding"><img src="inner-pages/images/img-hasselby3.jpg" alt="" class="img-responsive"></div>
+            <div class="col-sm-3 mb-30 nopadding"><img src="inner-pages/images/img-hasselby4.jpg" alt="" class="img-responsive"></div>
         </div>
       </div>      
     </section>
@@ -130,11 +132,12 @@ Vardagar efter kl 18:00 samt helger tillkommer ett akuttillägg.
   <!-- Footer Ends --> 
 </div>
 <!-- Core Javascripts --> 
-<script type="text/javascript" src="js/jquery.js"></script> 
-<script type="text/javascript" src="js/bootstrap.min.js"></script> 
+<script type="text/javascript" src="inner-pages/js/jquery.js"></script> 
+<script type="text/javascript" src="inner-pages/js/bootstrap.min.js"></script> 
+<script type="text/javascript" src="js/navigation.js"></script>
+<script type="text/javascript" src="inner-pages/js/jquery.js"></script> 
+<script type="text/javascript" src="inner-pages/js/offcanvas.js"></script>
 
-<script type="text/javascript" src="js/jquery.js"></script> 
-<script type="text/javascript" src="js/offcanvas.js"></script>
 
 </body>
 </html>

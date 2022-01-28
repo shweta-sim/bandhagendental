@@ -1,0 +1,840 @@
+@import url('../fonts/fontawesome/css/all.min.css');
+html{
+    scroll-behavior: smooth; 
+}
+.flex-container{
+    display: flex;
+    flex-wrap: wrap
+}
+nav {
+    display: block
+}
+
+header {
+    z-index: 3;
+    position: relative;
+}
+
+header *:not(i) {
+    -webkit-transition: all 0.4s ease 0s;
+    -moz-transition: all 0.4s ease 0s;
+    -ms-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+}
+
+a:hover,
+a:focus {
+    text-decoration: none;
+    outline: none;
+}
+
+ul {
+    list-style: outside none none;
+    margin: 0 0 30px;
+    padding: 0;
+}
+
+ul li {
+    color: #1e1e1e;
+    margin-bottom: 15px;
+    position: relative;
+}
+
+/* Header */
+.menu-sec-dental nav>ul>li>ul li:hover>a {
+    color: #204849;
+}
+
+.stick-top {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 12;
+}
+
+.menu-sec-dental {
+    margin: 20px 0;
+}
+
+.logo {
+    margin:6px 0px 0px 60px;
+    position: relative;
+}
+.sticky .logo{
+    margin: 0px 0px 0px 60px ;
+}
+
+
+.logo,
+.logo a,
+.responsive-logo-dental,
+.responsive-logo-dental>a,
+.menu-sec-dental nav>ul {
+    float: left;
+}
+
+.btn-extars {
+    float: right;
+}
+header.stick-top.forsticky .btn-extars{
+    position: absolute;
+    left: 71%;
+}
+
+.account-btns {
+    float: right;
+    margin: 0;
+    margin-top: 7px;
+    /*margin-left: 16px;*/
+    padding: 7px 0px;
+}
+.responsive-dental-opened .account-btns { 
+    float: none;
+}
+.stick-top.forsticky.sticky ul.account-btns{margin-top: 0px;}
+
+.account-btns>li {
+    float: left;
+    margin: 0;
+    margin-left: 30px;
+}
+.responsive-dental-opened .account-btns>li{
+    float: none;
+    margin:17px 0 17px 0;
+      
+}
+.responsive-dental-opened .account-btns>li>a,
+.responsive-dental-opened .account-btns>li>a>i{
+    font-size: 20px;  
+}
+.account-btns>li a {
+    font-size: 17px;
+    color: #ffffff;
+    line-height: 22px;
+}
+
+.account-btns>li a i {
+    font-size: 17px;
+    line-height: 22px;
+    margin-right: 2px;
+}
+
+.account-btns>li:first-child,
+.menu-sec-dental nav>ul {
+    margin: 0 10px;
+}
+.responsive-dental-opened .account-btns>li:first-child{
+    margin-top: 15px;
+}
+.menu-sec-dental nav {
+    float: right;
+    margin-right: 31%;
+}
+
+.menu-sec-dental nav>ul>li {
+    float: left;
+    position: relative;
+    margin: 0;
+}
+
+.menu-sec-dental nav>ul>li>a {
+    float: left;
+    font-size: 17px;
+    color: #ffffff;    
+}
+.menu-sec-dental nav>ul>li{
+     padding: 14px 20px;
+     position: relative;
+}
+.menu-sec-dental nav>ul>li:nth-child(2),
+.menu-sec-dental nav>ul>li:nth-child(4){
+    padding: 14px 35px 14px 20px;
+}
+.menu-sec-dental nav>ul>li.menu-item-has-children>a::before {
+    position: absolute;
+    right: 21px;
+    width: 10px;
+    height: 10px;
+    content: "\f0d7";
+    font-size: 9px;
+    top: 50%;
+    margin-top: -6px;
+    font: normal normal normal 14px/1 FontAwesome;
+}
+
+.menu-sec-dental nav>ul>li>ul {
+    opacity: 0;
+    visibility: hidden;
+    margin: 0;
+    position: absolute;
+    top: 100%;
+    width: 240px;
+    padding-top: 0;
+    -webkit-box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    border-radius: 8px;
+}
+
+.menu-sec-dental nav>ul>li:hover>ul {
+    opacity: 1;
+    visibility: visible;
+}
+
+.menu-sec-dental nav>ul>li>ul li {
+    background: #ffffff;
+    margin: 0;
+    position: relative;
+}
+
+.menu-sec-dental nav>ul>li>ul li a {
+    font-size: 16px;
+    color: #202020;
+    padding: 9px 25px;
+}
+
+.menu-sec-dental,
+.menu-sec-dental nav>ul>li>ul li,
+.menu-sec-dental nav>ul>li>ul li a,
+.responsive-header-main,
+.responsive-menubar-dental,
+.responsive-dental-menu-main,
+.responsive-dental-opened .btn-extars,
+.responsive-dental-menu-main>ul,
+.responsive-dental-menu-main>ul>li,
+.responsive-dental-menu-main>ul>li ul,
+.responsive-dental-menu-main>ul>li ul>li{
+    width: 100%;
+    float: left;
+}
+
+.menu-sec-dental nav>ul>li>ul li:first-child>a {
+    margin-top: 14px;
+}
+
+.menu-sec-dental nav>ul>li>ul li:last-child>a {
+    margin-bottom: 14px;
+}
+
+.menu-sec-dental nav>ul>li>ul li:first-child {
+    -webkit-border-radius: 6px 6px 0px 0px;
+    -moz-border-radius: 6px 6px 0px 0px;
+    -ms-border-radius: 6px 6px 0px 0px;
+    -o-border-radius: 6px 6px 0px 0px;
+    border-radius: 6px 6px 0px 0px;
+}
+
+.menu-sec-dental nav>ul>li>ul li:last-child {
+    -webkit-border-radius: 0px 0px 6px 6px;
+    -moz-border-radius: 0px 0px 6px 6px;
+    -ms-border-radius: 0px 0px 6px 6px;
+    -o-border-radius: 0px 0px 6px 6px;
+    border-radius: 0px 0px 6px 6px;
+}
+
+.menu-sec-dental nav>ul>li>ul::before {
+    position: absolute;
+    left: 40px;
+    top: -4px;
+    width: 20px;
+    height: 20px;
+    background: #ffffff;
+    content: "";
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.menu-sec-dental nav>ul>li>ul li:hover>a {
+    padding-left: 35px;
+}
+
+.forsticky {
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: linear-gradient(to left, #204849 0%,#204849 31%,#204849 31%,#b79b5b 30%,#b79b5b 100%);
+}
+
+.forsticky.sticky .menu-sec-dental nav>ul>li>a {
+    color: #232323;
+    line-height: 10px;
+}
+.forsticky.sticky .menu-sec-dental nav>ul>li>a:hover,
+.forsticky.sticky .account-btns>li a:hover{
+    color:#b79b5b;
+}
+.forsticky.sticky .account-btns>li a {
+    color: #222222;
+}
+
+.forsticky.sticky .menu-sec-dental {
+    margin-top: 23px;
+    margin-bottom: 17px;
+}
+
+.forsticky.sticky {
+    position: fixed;
+    left: 0;
+    top: 0;
+    background: #ffffff;
+    -webkit-box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+}
+
+.showsticky {
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.logo a img{
+    max-width: 238px;
+}
+.forsticky.sticky .logo a img.showsticky {
+    display: block;
+}
+
+.forsticky.sticky .logo a img.hidesticky {
+    opacity: 0;
+}
+
+.menu-sec-dental nav>ul>li ul li.menu-item-has-children>ul {
+    position: absolute;
+    left: 100%;
+    width: 250px;
+    padding-left: 11px;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.menu-sec-dental nav>ul>li ul li.menu-item-has-children>ul::before {
+    position: absolute;
+    left: 7px;
+    top: 13px;
+    width: 13px;
+    height: 13px;
+    background: #fafafa;
+    content: "";
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.menu-sec-dental nav>ul>li ul li.menu-item-has-children:hover>ul {
+    opacity: 1;
+    visibility: visible;
+}
+
+.bottom-line .scrollup {
+    position: absolute;
+    right: 70px;
+    bottom: 44px;
+    width: 50px;
+    height: 50px;
+    border: 2px solid #8a99b3;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    -webkit-transition: all 0.4s ease 0s;
+    -moz-transition: all 0.4s ease 0s;
+    -ms-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+    line-height: 46px;
+    color: #8a99b3;
+    font-size: 23px;
+}
+
+.responsive-header-main {
+    position: relative;
+    background: #b79b5b;
+    padding: 0 25px;
+    z-index: 99;
+    display: none;
+}
+
+.responsive-menubar-dental {
+    padding: 30px 0;
+}
+
+.menu-dental-action {
+    float: right;
+    position: relative;
+}
+
+.responsive-dental-menu-main {
+    margin-top: 00px;
+    margin-bottom: 20px;
+}
+
+.menu-dental-openmenu {
+    float: left;
+    color: #fff;
+    font-size: 15px;
+    padding: 12px 0px;
+    -webkit-border-radius: 26px;
+    -moz-border-radius: 26px;
+    -ms-border-radius: 26px;
+    -o-border-radius: 26px;
+    border-radius: 26px;
+    cursor: pointer;
+}
+
+.menu-dental-openmenu img {
+    float: left;
+    margin-right: 11px;
+}
+
+.menu-dental-closemenu {
+    position: absolute;
+    right: 0;
+    top: -4px;
+    color: #fff;
+    font-size: 15px;
+    padding: 13px 0px;
+    -webkit-border-radius: 26px;
+    -moz-border-radius: 26px;
+    -ms-border-radius: 26px;
+    -o-border-radius: 26px;
+    border-radius: 26px;
+    cursor: pointer;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.responsive-dental-opened {
+    width: 100%;
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 100%;
+    background: #b79b5b;
+    padding: 0 30px 30px 30px;
+    height: auto;
+}
+
+.responsive-dental-opened .btn-extars {
+    border-top: 1px solid #b08d3d;
+    /*border-bottom: 1px solid #204849;*/
+/*    padding: 20px 0;*/
+}
+
+
+.responsive-dental-menu-main>ul>li {
+    margin: 7px 0;
+    position: relative;
+}
+
+.responsive-dental-menu-main>ul>li>a {
+    font-size: 20px;
+    color: #f9f9f9;
+    padding-right: 30px;
+    position: relative;
+}
+
+.responsive-dental-menu-main>ul>li.menu-item-has-children>a::before,
+.responsive-dental-menu-main>ul>li.menu-item-has-children>a::after {
+    position: absolute;
+    right: 0;
+    top: 13px;
+    width: 20px;
+    height: 1px;
+    background: #ffffff;
+    content: "";
+}
+
+.responsive-dental-menu-main>ul>li.menu-item-has-children>a::after {
+    right: 10px;
+    top: 4px;
+    width: 1px;
+    height: 20px;
+}
+
+.responsive-dental-menu-main>ul>li ul {
+    margin: 0px 0;
+    padding-left: 30px;
+}
+
+.responsive-dental-menu-main>ul,
+.responsive-dental-menu-main>ul>li ul>li {
+    margin: 5px 0;
+}
+
+.responsive-dental-menu-main>ul>li ul>li a {
+    color: #ffffff;
+    font-size: 15px;
+    padding: 8px 0;
+}
+
+.responsive-dental-menu-main>ul>li.menu-item-has-children.active,
+.responsive-dental-menu-main>ul>li.menu-item-has-children.active>ul {
+    margin-bottom: 0;
+}
+
+.responsive-dental-menu-main>ul>li.menu-item-has-children.active a::after {
+    height: 0px;
+}
+
+.responsive-dental-menu-main>ul>li.menu-item-has-children.active>a {
+    color: #ffffff;
+}
+.menu-dental-openmenu.active {
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    -ms-transform: scale(0);
+    -o-transform: scale(0);
+    transform: scale(0);
+}
+
+.responsive-header-main.active .menu-dental-closemenu {
+    opacity: 1;
+    visibility: visible;
+}
+
+.menu-dental-closemenu img {
+    float: left;
+    margin-right: 12px;
+}
+@media (max-width: 1250px){
+    header.stick-top.forsticky .btn-extars{
+        left: 70%;
+    }
+}
+@media (max-width:1200px) {
+    header {
+        display: none !important;
+    }
+
+    .responsive-header-main {
+        display: block;
+    }
+    
+}
+@media (max-width:1600px){
+   .logo {
+        margin:6px 0px 0px 30px;
+    }
+    .sticky .logo{
+        margin: 0px 0px 0px 30px ;
+    }  
+    .account-btns>li {
+        margin-left: 20px ;
+    }
+    .account-btns>li:first-child, .menu-sec-dental nav>ul{
+            margin: 0 0px 0 0;
+    }
+    .menu-sec-dental nav>ul>li {
+        padding: 14px 10px;
+    }
+    .menu-sec-dental nav>ul>li>a, .menu-sec-dental nav>ul>li>ul li a{
+        font-size: 15px;
+    }
+    .account-btns>li a {
+        font-size: 15px;
+    }
+    .account-btns>li a i {
+        font-size: 15px;
+    }
+    .menu-sec-dental nav>ul>li.menu-item-has-children>a::before {
+        margin-top: -5px;
+    }
+}
+@media (max-width:1250px){
+     .logo {
+        margin:6px 0px 0px 00px;
+    }
+}
+.padd25{
+    padding: 0 25px;
+}
+.signup-popup a:hover{
+    cursor: pointer;
+    color:#b79b5b;
+}
+nav ul li a:hover{
+    color: #204849;
+}
+.responsive-dental-opened .account-btns .signup-popup a:hover,
+.responsive-dental-menu-main ul li a:hover{
+    color:#204849
+}
+/*--- Footer ---*/
+.footer{
+    padding: 120px 0;
+    background: #f4f4f4;
+}
+.snabblänkar p,
+.behandlingar p,
+.klinik p,
+.hasselby p{
+    font-family: 'Caladea';
+    font-size:20px;
+    color: #204849;
+    padding-bottom: 30px;
+}
+.snabblänkar ul li,
+.behandlingar ul li,
+.klinik ul li,
+.hasselby ul li{
+    font-size: 16px;
+    color: #686868;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+    position:relative;
+}
+.snabblänkar ul li a,
+.behandlingar ul li a,
+.klinik ul li a,
+.hasselby ul li a{
+    font-size: 16px;
+    color: #686868;
+}
+.snabblänkar ul li a:hover,
+.behandlingar ul li a:hover,
+.klinik ul li a:hover,
+.hasselby ul li a:hover{
+    color:#b79b5b;
+    transition: .3s ease; 
+}
+.klinik ul li,
+.hasselby ul li{
+    margin-left: 35px;
+}
+.klinik ul li i,
+.hasselby ul li i{
+    position: absolute;
+    left:-35px;
+    top: 4px;
+    color:#204849;
+}
+.iFont i{
+    font-size: 20px;
+}
+.snabblänkar{
+    flex-basis: 18%;
+}
+.behandlingar{
+    flex-basis: 24%;
+}
+.klinik{
+    flex-basis: 34%;
+}
+.hasselby{
+    flex-basis: 24%
+}
+.sub-footer{
+    padding: 30px 0;
+}
+.left-section{
+    align-content: flex-start
+}
+.content-pos{
+    justify-content: space-between;
+    align-items: center;
+}
+.left-section p, .right-section a {
+    color:#686868; 
+}
+.right-section a{
+    font-size:20px;
+    
+}
+.facebook:hover{
+    color:#3b5998;
+}
+.left-section a{
+    color:#b79b5b;
+}
+.left-section a:hover{
+    color:#204849
+}
+.footer-social{
+    margin-left: 30px;
+}
+.footer-social a{
+    padding: 5px 5px;
+    font-size: 35px;
+    color:#b79b5b;
+}
+.insta:hover{
+    color:#DD2A7B;
+}
+@media screen and (max-width:1200px){   
+    .snabblänkar, .behandlingar, .klinik, .hasselby{
+        flex-basis: auto;
+        margin-bottom: 20px;
+    }
+    .justifySpaceBetween{
+        justify-content: space-between
+    }
+}
+.position-relative{
+    position: relative;
+}
+.menu-sec-dental nav>ul>li.menu-item-has-children>a::before{
+    right: -14px;
+}
+
+.menu-sec-dental nav>ul>li.nav-behandlingar>ul::before{
+    left: 86px;
+}
+.menu-sec-dental nav>ul>li.nav-priser>ul::before{
+    left: 37px;
+}
+.menu-sec-dental nav>ul>li.nav-om>ul::before{
+    left: 51px;
+}
+.before-after {
+    padding-top: 180px !important;
+    padding-bottom: 0 !important;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .ba-slider {
+    position: relative;
+    /* bottom: -120px; */
+    margin-top: 80px;
+    /*overflow: hidden;*/
+  }
+  
+  .ba-slider:before,
+  .ba-slider:after {
+    position: absolute;
+    bottom: 30px;
+    color: #fff;
+    text-align: center;
+    background: #b79b5b;
+    padding: 10px 40px;
+    z-index: 1;
+  }
+  
+  .ba-slider:before {
+    left: -30px;
+    content: 'Innan';
+  }
+  
+  .ba-slider:after {
+    right: -30px;
+    content: 'Efter';
+  }
+  
+  .ba-slider img {
+    width: 100%;
+    display: block;
+  }
+  
+  .resize {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 50%;
+    overflow: hidden;
+  }
+  
+  .handle {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    bottom: 0;
+    width: 8px;
+    margin-left: -4px;
+    background: #fff;
+    cursor: ew-resize;
+  }
+  
+  .handle:after {
+    position: absolute;
+    top: 50%;
+    width: 90px;
+    height: 90px;
+    margin: -45px 0 0 -41px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    content: url('../images/icon-double-caret.png');
+    background: #b79b5b;
+    border-radius: 50%;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+    -o-box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+    -ms-box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  }
+  
+  @media screen and (max-width: 1199.98px) {
+    .handle:after {
+        transform: scale(0.7);
+    }
+    .ba-slider:before,
+    .ba-slider:after {
+        bottom: 15px;
+        padding: 5px 20px;
+        font-size: 13px;
+    }
+    .ba-slider:before {
+        left: -15px;
+    }
+    .ba-slider:after {
+        right: -15px;
+    }
+  }
+  
+  @media screen and (max-width: 991.98px) {
+    .before-after {
+        padding-top: 90px !important;
+    }
+  }
+  
+  @media screen and (max-width: 576.98px) {
+    .ba-slider {
+        position: relative;
+        bottom: -60px;
+        margin-top: -60px;
+    }
+    .handle {
+        width: 6px;
+        margin-left: -3px;
+    }
+    .handle:after {
+        margin: -45px 0 0 -42px;
+        transform: scale(0.5);
+    }
+    .ba-slider:before,
+    .ba-slider:after {
+        padding: 3px 10px;
+        font-size: 11px;
+    }
+  }
+  

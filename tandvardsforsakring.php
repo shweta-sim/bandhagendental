@@ -10,10 +10,11 @@
 <meta name="author" content="">
 <title>Tandvårdsförsäkring & Tandvårdsbidrag | Bandhagen Dental Care</title>
 <link rel="icon" type="image/png" href="images/favicon.png">
-<link href="css/bootstrap.min.css" rel="stylesheet">
-<link href="css/main.css" rel="stylesheet">
-<link href="fonts/css/fontello.css" rel="stylesheet">
-<link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="inner-pages/css/bootstrap.min.css" rel="stylesheet">
+<link href="inner-pages/css/main.css" rel="stylesheet">
+<link href="css/template.css" rel="stylesheet">
+<link href="inner-pages/fonts/css/fontello.css" rel="stylesheet">
+<link href="inner-pages/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
 <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -88,9 +89,9 @@
         </div>
         
         <div class="row margin-btm20">
-          <div class="col-md-4 margin-btm20"><img src="images/img-tandvardsforsakring.jpg" alt="" class="img-responsive"></div>
+            <div class="col-md-4 margin-btm20"><img src="inner-pages/images/img-tandvardsforsakring.jpg" alt="" class="img-responsive"></div>
           <div class="col-md-8">
-            <h4 class="text-grey">Ny Tandvårdsförsäkring från den första Juli 2008</h4>
+            <h4>Ny Tandvårdsförsäkring från den första Juli 2008</h4>
             <div>Under 2008 genomför regeringen en stor tandvårdsreform för vuxna.<br>
 <br>
 Reformen riktar sig mot personer över 20 år och innehåller ett allmänt tandvårdsbidrag samt ett skydd mot höga kostnader som ska göra det billigare att gå till tandläkaren. Reformen träder i kraft 1 juli 2008. Satsningen innebär en fördubbling av det statliga  tandvårdsstödet från dagens tre miljarder till sex miljarder årligen. </div>
@@ -99,7 +100,7 @@ Reformen riktar sig mot personer över 20 år och innehåller ett allmänt tandv
         
         <div class="row">
           <div class="col-md-12">
-            <h4 class="text-grey">Reformen innehåller följande förslag</h4>
+            <h4>Reformen innehåller följande förslag</h4>
             <div>Ett allmänt tandvårdsbidrag, "tandvårdscheck", införs. Det innebär att alla vuxna får ett bidrag till regelbundna tandvårdsbesök. <br>
 <br>
 Bidraget uppgår till 300 kronor vartannat år för personer i åldrarna 30-74 år och 600 kronor vartannat år för åldersgruppen 20-29 år samt 75 år och äldre. Syftet är att bidraget främst ska användas för undersökningar och förebyggande tandvård, men det kan även användas för så kallad abonnemangstandvård.<br>
@@ -108,7 +109,9 @@ Ett skydd för höga kostnader för tandvårdstjänster införs. Upp till 3 000 
 <br>
 Kostnaden beräknas utifrån statligt fastställda referenspriser. Om din tandläkares pris är högre än den faställda referenspriset får du själv betala mellanskillnaden. Dagens högkostnadsskydd för patienter som är 65 år och äldre ersätts med det nya tandvårdsstödet.<br>
 <br>
-<a href="http://www.forsakringskassan.se/privatpers/tandvard/" target="_blank" class="btn btn-default btn-lg">Mer information hittar du här</a>            </div>
+<div class="inner-link width-280">
+<a href="http://www.forsakringskassan.se/privatpers/tandvard/" target="_blank" class="links">Mer information hittar du här</a>            </div>
+</div>
           </div>
         </div>
         
@@ -123,10 +126,10 @@ Kostnaden beräknas utifrån statligt fastställda referenspriser. Om din tandl�
   <!-- Footer Ends --> 
 </div>
 <!-- Core Javascripts --> 
-<script type="text/javascript" src="js/jquery.js"></script> 
-<script type="text/javascript" src="js/bootstrap.min.js"></script> 
-  
-<script type="text/javascript" src="js/jquery.js"></script> 
-<script type="text/javascript" src="js/offcanvas.js"></script>
+<script type="text/javascript" src="inner-pages/js/jquery.js"></script> 
+<script type="text/javascript" src="inner-pages/js/bootstrap.min.js"></script> 
+<script type="text/javascript" src="js/navigation.js"></script>
+<script type="text/javascript" src="inner-pages/js/jquery.js"></script> 
+<script type="text/javascript" src="inner-pages/js/offcanvas.js"></script>
 </body>
 </html>

@@ -10,10 +10,11 @@
 <meta name="author" content="">
 <title>Jätte erbjudanden! hitta oss på Facebook | Bandhagen Dental Care</title>
 <link rel="icon" type="image/png" href="images/favicon.png">
-<link href="css/bootstrap.min.css" rel="stylesheet">
-<link href="css/main.css" rel="stylesheet">
-<link href="fonts/css/fontello.css" rel="stylesheet">
-<link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="inner-pages/css/bootstrap.min.css" rel="stylesheet">
+<link href="inner-pages/css/main.css" rel="stylesheet">
+<link href="css/template.css" rel="stylesheet">
+<link href="inner-pages/fonts/css/fontello.css" rel="stylesheet">
+<link href="inner-pages/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
 <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -88,34 +89,53 @@
             	OBS! Alla Letsdeal kunder: I samband av köp samtycker patienten att eventuella statliga tandvårdsbidrag kommer att utnyttjas, med kundens godkännande. 
             </div>-->
             
-            <div class="row margin-btm40">
+<!--            <div class="row margin-btm40">
             	<div class="col-md-6 col-md-offset-3">
             		<div class="fb-like2">
-                    <div class="icon-fb-like"><img src="images/icon-fb-like.png" alt=""></div>
+                            <div class="icon-fb-like"><img src="inner-pages/images/icon-fb-like.png" alt=""></div>
                   <h5>Gilla oss på facebook så får du 5% rabatt på din första behandling!</h5></div>
             	</div>
-            </div>
+            </div>-->
             
             <div class="row margin-btm20">
-            	<div class="col-md-6 margin-btm20">
+                <div class="col-md-6 margin-btm20">
                 	<div class="pricing-table">
-                    	<div class="grid-title">Tandläkarundersökning ,röntgenbilder och kostnadsförslag endast 199*kr</div>
-                        <div class="grid-row1">Ord. Pris 1200 kr</div>
+                    	<div class="grid-title font-16">Introduktionserbjudande Fillers:</div>
+                      <div class="grid-row1">Läppar med Revolax 0,5 ml 1250 kr (ord. pris 2500 kr)<br>
+                          Läppar med Revolax 1.0 ml 1750 kr (ord pris 3500 kr)<br>
+                          Kinder 1800 kr 1.0 ml (ord pris 2800 kr)<br>
+                          Nasolabial veck 1800 kr (ord pris 2800 kr)<br>
+                          ( Erbjudandet gäller under begränsad tid)
+                      </div>
+                  </div>
+              	</div>
+              <div class="col-md-6">
+                <div class="pricing-table">
+                    <div class="grid-title font-16">Introduktionserbjudande för Botox:</div>
+                    <div class="grid-row1">1 område 900 kr<br>
+                        2 områden 1500 kr<br>
+                        3 områden 2000 kr<br>
+                        ( Erbjudandet gäller under begränsad tid)
                     </div>
+                  </div>
             	</div>
-                <div class="col-md-6">
-                	<div class="pricing-table">
-                    	<div class="grid-title">50% rabatt på första fyllningen efter din undersökning.</div>
-                        <div class="grid-row1">Ord. Pris 900-1800 kr beroende på storleken av tandskadan och placeringen i munnen.</div>
-                    </div>
-            	</div>
+                
             </div>
             <div class="row margin-btm20">
               <div class="col-md-6 margin-btm20">
-                  <div class="pricing-table">
-                      <div class="grid-title">Tandhygienist besök för halva priset vid första besöket*</div>
-                        <div class="grid-row1">Ord.pris 1000-1400 kr</div>
+                	<div class="pricing-table">
+                    	<div class="grid-title font-16">TTandläkarundersökning plus alla nödvändiga röntgenbilder och kostnadsförslag endast för 199*kr</div>
+                        <div class="grid-row1">Ord. Pris 1520 kr</div>
                     </div>
+            	</div>              
+            </div>
+
+            <div class="row margin-btm20">
+              <div class="col-md-6 margin-btm20">
+                  <!-- <div class="pricing-table">
+                      <div class="grid-title font-16">Tandhygienist besök för halva priset vid första besöket*</div>
+                        <div class="grid-row1">Ord.pris 1000-1400 kr</div>
+                    </div> -->
               </div>
                 <div class="col-md-6">
                   <!-- <div class="pricing-table">
@@ -125,7 +145,7 @@
               </div>
             </div>
             
-            <h4 class="text-grey text-center">Rekommendera oss till dina vänner så får du detta som tack!</h4>
+            <h4 class="text-green text-center">Rekommendera oss till dina vänner så får du detta som tack!</h4>
             
             <div class="row">
             	<div class="col-md-6 margin-btm20">
@@ -156,8 +176,9 @@
             	</div>
             </div>
                          
-            <div class="text-center margin-btm20">*eventuella statliga tandvårdsbidrag från försäkringskassan kommer att utnyttjas.<br>
-OBS! Detta kan ej kombineras med andra erbjudanden som Bandhagen Dental Care har.</div>            
+            <div class="text-center margin-btm20">*eventuella statliga tandvårdsbidrag från försäkringskassan kommer att utnyttjas. 
+                Erbjudandet gäller endast nya patienter.<br>
+    OBS! Detta kan ej kombineras med andra erbjudanden som Bandhagen Dental Care har</div>            
             <h5 class="text-center">Ring oss gärna för mer information, 08-64 78 620</h5>
             
           </div>
@@ -175,11 +196,11 @@ OBS! Detta kan ej kombineras med andra erbjudanden som Bandhagen Dental Care har
   <!-- Footer Ends --> 
 </div>
 <!-- Core Javascripts --> 
-<script type="text/javascript" src="js/jquery.js"></script> 
-<script type="text/javascript" src="js/bootstrap.min.js"></script> 
-
-<script type="text/javascript" src="js/jquery.js"></script> 
-<script type="text/javascript" src="js/offcanvas.js"></script>
+<script type="text/javascript" src="inner-pages/js/jquery.js"></script> 
+<script type="text/javascript" src="inner-pages/js/bootstrap.min.js"></script> 
+<script type="text/javascript" src="js/navigation.js"></script> 
+<script type="text/javascript" src="inner-pages/js/jquery.js"></script> 
+<script type="text/javascript" src="inner-pages/js/offcanvas.js"></script>
 
 </body>
 </html>
