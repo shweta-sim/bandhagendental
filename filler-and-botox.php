@@ -83,7 +83,7 @@
     <div class="container" id="forebyggande"> <a name="forebyggande"></a>
       <div class="row treatment-list first">
           <div class="col-md-5 col-sm-5 pull-left nopadding"> 
-              <img src="inner-pages/images/img-fillers-and-botox.jpg" alt="" class="img-responsive"> 
+              <img src="inner-pages/images/img-fillers-and-botox-2.jpeg" alt="" class="img-responsive"> 
           </div>
         <div class="col-md-7 col-sm-7 pull-right treatment-text">
           <h4>Fillers and Botox</h4>
@@ -118,8 +118,25 @@
 
         </div>
       </div>
+      <div class="row">
+          <div class="col-md-5">
+            <div class="img-container">
+              <img src="inner-pages/images/botox-fillers.jpeg" alt="" class=""> 
+            </div>
+          </div>
+          <div class="col-md-2">
+            <div class="img-container">
+              <img src="inner-pages/images/botox-fillers3.jpg" alt="" class=""> 
+            </div>
+          </div>
+          <div class="col-md-5">
+            <div class="img-container">
+              <img src="inner-pages/images/botox-fillers2.jpg" alt="" class=""> 
+            </div>
+          </div>
+      </div>
     </div>
-    <div class="bg-grey">
+    <!-- <div class="bg-grey">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
@@ -131,7 +148,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
   </div>
   <!-- Main Ends --> 
   

@@ -37,10 +37,10 @@
                       <li><a href="behandlingar.php#rotbehandlingar">Rotbehandlingar</a></li>
                       <li><a href="behandlingar.php#tandblekning">Tandblekning</a></li>
                       <li><a href="behandlingar.php#airflow">Airflow</a></li>
+                      <li><a href="behandlingar.php#invisalign">Invisalign</a></li>
+                      <li><a href="filler-and-botox.php">Fillers and Botox</a></li>
                       <li><a href="behandlingar.php#lappforstoring">Läppförstoring och Fillerbehandling</a></li>
                       <li><a href="behandlingar.php#rynkbehandling">Rynkbehandling med Botox</a></li>
-                      <li><a href="behandlingar.php#invisalign">Invisalign</a></li>
-                      <li><a href="">Fillers and Botox</a></li>
                     </ul>
                 </li>
                 <li>
@@ -52,6 +52,7 @@
                     </ul>
                 </li>
                 <li><a href="erbjudanden.php" title="">Erbjudanden</a></li>
+                <li><a href="bilder.php" title="">Bilder</a></li>
                 <li><a href="kontakt.php" title="">Kontakt</a></li>
             </ul>
         </div>
@@ -59,7 +60,7 @@
             <ul class="account-btns">
                 <li class="signup-popup"><a href="akut.php"><i class="fas fa-tooth"></i> Akut</a></li>
                 <li class="signup-popup"><a href="lista-mig.php"><i class="fas fa-clipboard-list"></i> Lista Mig</a></li>
-                <li class="signup-popup"><a href="ring-mig.php"><i class="fas fa-mobile-alt"></i> Ring Mig</a></li>
+                <!-- <li class="signup-popup"><a href="ring-mig.php"><i class="fas fa-mobile-alt"></i> Ring Mig</a></li> -->
                 <li class="signup-popup"><a href="https://bandhagen.opusdentalonline.com/" target="_blank"><i class="fas fa-calendar-alt"></i> Boka Online</a></li>
             </ul>
         </div><!-- Btn Extras -->
@@ -81,9 +82,9 @@
                     <li class="signup-popup">
                         <a href="javascript:void();" data-toggle="modal" data-target="#lista-mig"><i class="fas fa-clipboard-list"></i> Lista Mig</a>
                     </li>
-                    <li class="signup-popup">
+                    <!-- <li class="signup-popup">
                         <a href="javascript:void();" data-toggle="modal" data-target="#ring-mig"><i class="fas fa-mobile-alt"></i> Ring Mig</a>
-                    </li>
+                    </li> -->
                     <li class="signup-popup"><a href="https://bandhagen.opusdentalonline.com/" target="_blank"><i class="fas fa-calendar-alt"></i> Boka Online</a></li>
                 </ul>
             </div><!-- Btn Extras -->
@@ -110,10 +111,10 @@
                           <li><a href="behandlingar.php#rotbehandlingar">Rotbehandlingar</a></li>
                           <li><a href="behandlingar.php#tandblekning">Tandblekning</a></li>
                           <li><a href="behandlingar.php#airflow">Airflow</a></li>
-                          <li><a href="behandlingar.php#lappforstoring">Läppförstoring och Fillerbehandling</a></li>
-                          <li><a href="behandlingar.php#rynkbehandling">Rynkbehandling med Botox</a></li>
                           <li><a href="behandlingar.php#invisalign">Invisalign</a></li>
                           <li><a href="filler-and-botox.php">Fillers and Botox</a></li>
+                          <li><a href="behandlingar.php#lappforstoring">Läppförstoring och Fillerbehandling</a></li>
+                          <li><a href="behandlingar.php#rynkbehandling">Rynkbehandling med Botox</a></li>
                         </ul>
                     </li>
                     <li class="menu-item-has-children nav-priser">
@@ -125,6 +126,7 @@
                         </ul>
                     </li>
                     <li><a href="erbjudanden.php" title="">Erbjudanden</a></li>
+                    <li><a href="bilder.php" title="">Bilder</a></li>
                     <li><a href="kontakt.php" title="">Kontakt</a></li>
                 </ul>
             </nav><!-- Menus -->

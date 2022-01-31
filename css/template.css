@@ -837,4 +837,9 @@ nav ul li a:hover{
         font-size: 11px;
     }
   }
-  
+  .img-container img{
+    height: 200px;
+    width: 100%;
+    object-fit: contain;
+    margin-bottom: 30px;
+}
