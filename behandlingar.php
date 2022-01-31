@@ -244,46 +244,42 @@
             <img src="inner-pages/images/img-lappforstoring.jpg" alt="" class="img-responsive"> </div>
         <div class="col-md-7 col-sm-7 pull-right treatment-text">
           <h4>Läppförstoring och Fillerbehandling i Stockholm</h4>
-          <div class="more font-16"> Vill du att läpparna ska bli större i sin helhet, vill du framhäva läpparnas kontur eller göra munnen bredare?<br>
-            <br>
-            Gelen/fillern är naturlig, ren och klar som används för att korrigera och forma ansiktsrynkor och veck, samt även för att bygga upp läppar.<br>
-            <br>
+
+          <div class="more font-16">Vill du att läpparna ska bli större i sin helhet, vill du framhäva läpparnas kontur eller göra munnen bredare?<br><br>
+          Gelen/fillern är naturlig, ren och klar som används för att korrigera och forma ansiktsrynkor och veck, samt även för att bygga upp läppar.<br><br>
+          
             <h5 class="text-brown">Hyaluronsyra</h5>
-            Hyaluronsyra finns naturligt i den mänskliga kroppen. Dess främsta uppgift i huden är att hålla den fuktig, ge volym, samt att bidra till bildandet av ny vävnad. Hyaluronsyran i huden bryts ner med åldern och därmed förlorar huden sin ungdomliga spänst och lyster. Produkterna är baserade på den naturliga substansen hyaluronsyra.<br>
-            <br>
+            Hyaluronsyra finns naturligt ...i den mänskliga kroppen. Dess främsta uppgift i huden är att hålla den fuktig, ge volym, samt att bidra till bildandet av ny vävnad. Hyaluronsyran i huden bryts ner med åldern och därmed förlorar huden sin ungdomliga spänst och lyster. Produkterna är baserade på den naturliga substansen hyaluronsyra.
+            <br><br>
+
             <h5 class="text-brown">Hur går det till?</h5>
-            Behandlingen tar oftast inte mer än 15 till 20 minuter. Före behandlingen berättar terapeuten om produkten och förklarar hur behandlingen går till. Terapeuten tar noggrant reda på dina önskemål och dokumenterar din behandling inför kommande besök. Behandlingen lämnar inga ärr eller synliga märken i huden.<br>
-            <br>
-            <h5 class="text-brown">Finns det några biverkningar?</h5>
-            Direkt efter behandlingen är det vanligt att huden blir lite röd, svullen och öm vid det behandlade området. Obehagen försvinner oftast efter ett par dagar eller upp till en vecka. Läpparna är extra känsliga och svullnar lätt, ofta medan injektionen pågår. Kvardröjande eftersvullnad i ett par dagar eller upp till en vecka är inte ovanligt. Det slutgiltiga resultatet av din läppbehandling ser du därför bäst efter ungefär en vecka.<br>
-            <br>
+           Behandlingen tar oftast inte mer än 15 till 20 minuter. Före behandlingen berättar terapeuten om produkten och förklarar hur behandlingen går till. Terapeuten tar noggrant reda på dina önskemål och dokumenterar din behandling inför kommande besök. Behandlingen lämnar inga ärr eller synliga märken i huden.
+           <br><br>
+
+           <h5 class="text-brown">Släta ut rynkor</h5>
+            Att släta ut veck och rynkor genom att tillföra volym kan förändra utseendet på ett fantastiskt sätt.<br><br>
+            Vid behandling av rynkor och veck injiceras fillern i huden i små mängder med en mycket fin nål. Den injicerade gelen skapar naturlig volym under rynkan, som lyfts upp och jämnas ut. Resultatet kan ses omedelbart. Det är enkelt och säkert att behandla rynkor med dessa fillers och behandlingen lämnar inga ärr eller andra spår i ansiktet.<br><br>
+
+            <h5 class="text-brown">Bedövning</h5>
+            Vid behandling av rynkor behöver inte alla patienter bedövning, men du kan få det om du önskar det. Före behandlingen kan en bedövningssalva appliceras på det område som ska behandlas. Men du kan också få en bedövningsspruta.<br><br>
+
             <h5 class="text-brown">Hur varaktigt är resultatet?</h5>
-            Eftersom hyaluronsyran är biologiskt nedbrytbar är resultatet inte permanent. Hur länge effekten varar är mycket individuellt och beror på flera olika faktorer som t ex hudens struktur, din ålder, livsstil och vilket område av ansiktet som har behandlats. För att förlänga effekten av din behandling bör du tänka på att undvika hård ansträngning och att inte utsätta det behandlade området för stark sol ett par dagar efter behandlingen. Alkohol och rökning i stor omfattning kan också påverka behandlingens varaktighet. Om en uppföljning görs kort efter det första behandlingstillfället kan effekten hålla i sig i upp till ett år. Du kan också underhålla effekten genom att använda ansiktskrämen Hyamin E som är baserad på samma naturliga hyaluronsyra som Dermavisc.<br>
-            <br>
-            Undvik att använda läkemedel som innehåller acetylsalicylsyra eller andra smärtstillande och febernedsättande preparat några dagar innan behandling för att minska risken för blåmärken och blödning vid behandlingsstället. Undvik även alkohol de närmaste dagarna före behandling, då även detta kan ge upphov till blåmärken. Huden återhämtar sig snabbt efter en behandling med Dermavisc. För att uppnå bästa resultat är det dock viktigt att vara lite försiktig de närmsta dygnen efter din behandling. Undvik helt makeup det första dygnet efter behandling och utsätt inte ansiktet för starkt solljus eller solarium. Du bör också vara försiktig med alkohol, ansträngande träning och extrema temperaturer.<br>
-            <br>
+            Eftersom hyaluronsyran är biologiskt nedbrytbar är resultatet inte permanent. Hur länge effekten varar är mycket individuellt och beror på flera olika faktorer som t ex hudens struktur, din ålder, livsstil och vilket område av ansiktet som har behandlats. För att förlänga effekten av din behandling bör du tänka på att undvika hård ansträngning och att inte utsätta det behandlade området för stark sol ett par dagar efter behandlingen. Alkohol och rökning i stor omfattning kan också påverka behandlingens varaktighet. Om en uppföljning görs kort efter det första behandlingstillfället kan effekten hålla i sig i upp till ett år. Du kan också underhålla effekten genom att använda ansiktskrämen Hyamin E som är baserad på samma naturliga hyaluronsyra som Dermavisc.<br><br>
+            Undvik att använda läkemedel som innehåller acetylsalicylsyra eller andra smärtstillande och febernedsättande preparat några dagar innan behandling för att minska risken för blåmärken och blödning vid behandlingsstället. Undvik även alkohol de närmaste dagarna före behandling, då även detta kan ge upphov till blåmärken. Huden återhämtar sig snabbt efter en behandling med Dermavisc. För att uppnå bästa resultat är det dock viktigt att vara lite försiktig de närmsta dygnen efter din behandling. Undvik helt makeup det första dygnet efter behandling och utsätt inte ansiktet för starkt solljus eller solarium. Du bör också vara försiktig med alkohol, ansträngande träning och extrema temperaturer.<br><br>
+
+            <h5 class="text-brown">Finns det några biverkningar?</h5>
+            Efter behandlingen kan vissa vanliga injektionsrelaterade biverkningar inträffa, t.ex. svullnad, rodnad, smärta, klåda, missfärgning och ömhet vid injektionsstället.Dessa går normalt över av sig själv några dagar efter injektion i huden och inom en vecka efter injektion i läpparna. Kvardröjande eftersvullnad i ett par dagar eller upp till en vecka är inte ovanligt . Det slutgiltiga resultatet av din läppbehandling ser du därför bäst efter ungefär en vecka. Läpparna är extra känsliga och svullnar lätt, ofta medan injektionen pågår.<br><br>
+            Andra typer av biverkningar är mycket sällsynta, men cirka 1 av 2 000 behandlade patienter har haft lokala reaktioner, troligen av typen överkänslighet. Dessa har normalt varit svullnad vid injektionsstället, ibland med påverkan på omgivande vävnad. Rodnad, ömhet och i sällsynta fall acneliknande formationer har också rapporterats. Dessa biverkningar har antingen kommit några dagar efter injektionen eller efter två till fyra veckor. De har normalt beskrivits som lätta till måttliga och självbegränsande, med en genomsnittlig varaktighet på två veckor. Den här texten innehåller inte all information som finns om dessa produkter. <br><br>
+            Kontakta oss om Du önskar mer information.<br><br>
+            
             <h5 class="text-brown">Efterbehandling</h5>
-            Direkt efter behandlingen kan du få lätt rodnad, svullnad, ömhet och klåda på det behandlade området. Detta är en normal reaktion av injektionen. Obehaget är tillfälligt och försvinner normalt efter ett par dagar. Vid läppskulptering kan svullnaden vara något längre. Vissa patienter kan vara svullna i cirka en vecka. Under den här tiden kan läpparna se något ojämna ut. Det betyder att resultatet direkt efter behandlingen inte ska betraktas som det slutgiltiga. Kontakta Din läkare om obehaget kvarstår eller om du drabbas av andra reaktioner.<br>
-            <br>
-            En påfyllning två till fyra veckor efter den första behandlingen kan behövas för att uppnå optimal korrigering.<br>
-            <br>
+            Direkt efter behandlingen kan du få lätt rodnad, svullnad, ömhet och klåda på det behandlade området. Detta är en normal reaktion av injektionen. Obehaget är tillfälligt och försvinner normalt efter ett par dagar. Vid läppskulptering kan svullnaden vara något längre. Vissa patienter kan vara svullna i cirka en vecka. Under den här tiden kan läpparna se något ojämna ut. Det betyder att resultatet direkt efter behandlingen inte ska betraktas som det slutgiltiga. Kontakta Din läkare om obehaget kvarstår eller om du drabbas av andra reaktioner.<br><br>
+            En påfyllning två till fyra veckor efter den första behandlingen kan behövas för att uppnå optimal korrigering.<br><br>
             Behandlingen har en lång varaktighet på upp till 12 månader. Varaktigheten påverkas av behandlingsvolym, behandlingsteknik, din ålder och hudtyp.<br>
             <br>
-            <h5 class="text-brown">Släta ut rynkor</h5>
-            Att släta ut veck och rynkor genom att tillföra volym kan förändra utseendet på ett fantastiskt sätt.<br>
-            <br>
-            Vid behandling av rynkor och veck injiceras fillern i huden i små mängder med en mycket fin nål. Den injicerade gelen skapar naturlig volym under rynkan, som lyfts upp och jämnas ut. Resultatet kan ses omedelbart. Det är enkelt och säkert att behandla rynkor med dessa fillers och behandlingen lämnar inga ärr eller andra spår i ansiktet.<br>
-            <br>
-            <h5 class="text-brown">Bedövning</h5>
-            Vid behandling av rynkor behöver inte alla patienter bedövning, men du kan få det om du önskar det. Före behandlingen kan en bedövningssalva appliceras på det område som ska behandlas. Men du kan också få en bedövningsspruta.<br>
-            <br>
-            <h5 class="text-brown">Biverkningar</h5>
-            Efter behandlingen kan vissa vanliga injektionsrelaterade biverkningar inträffa, t.ex. svullnad, rodnad, smärta, klåda, missfärgning och ömhet vid injektionsstället. Dessa går normalt över av sig själv några dagar efter injektion i huden och inom en vecka efter injektion i läpparna. Andra typer av biverkningar är mycket sällsynta, men cirka 1 av 2 000 behandlade patienter har haft lokala reaktioner, troligen av typen överkänslighet. Dessa har normalt varit svullnad vid injektionsstället, ibland med påverkan på omgivande vävnad. Rodnad, ömhet och i sällsynta fall acneliknande formationer har också rapporterats. Dessa biverkningar har antingen kommit några dagar efter injektionen eller efter två till fyra veckor. De har normalt beskrivits som lätta till måttliga och självbegränsande, med en genomsnittlig varaktighet på två veckor. Den här texten innehåller inte all information som finns om dessa produkter. Kontakta Din läkare om Du önskar mer information.<br>
-            <br>
-            <h5 class="text-brown">Efterbehandling</h5>
-            Direkt efter behandlingen kan du få lätt rodnad, svullnad, ömhet och klåda på det behandlade området. Detta är en normal reaktion av injektionen. Obehaget är tillfälligt och försvinner normalt efter ett par dagar. Vid läppskulptering kan svullnaden vara något längre. Vissa patienter kan vara svullna i cirka en vecka. Under den här tiden kan läpparna se något ojämna ut. Det betyder att resultatet direkt efter behandlingen inte ska betraktas som det slutgiltiga. Kontakta Din läkare om obehaget kvarstår eller om du drabbas av andra reaktioner.<br>
-            <br>
-            En påfyllning två till fyra veckor efter den första behandlingen kan behövas för att uppnå optimal korrigering. </div>
+            
+           
+           </div>
         </div>
       </div>
     </div>
