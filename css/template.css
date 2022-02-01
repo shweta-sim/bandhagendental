@@ -837,9 +837,25 @@ nav ul li a:hover{
         font-size: 11px;
     }
   }
-  .img-container img{
-    height: 200px;
+.img-container img{
     width: 100%;
-    object-fit: contain;
+    object-fit: cover;
+}
+.p0{
+    padding: 0px !important;
+}
+
+.mt30{
+    padding-top:30px;
+}
+.mb30{
     margin-bottom: 30px;
+}
+.max-width-80{
+    max-width: 60%;
+    margin: 0 auto;
+}
+.mh420 img{
+    min-height: 420px;
+    max-height: 420px;
 }

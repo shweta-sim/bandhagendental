@@ -155,7 +155,7 @@
     </div>
     <div class="bg-grey">
         <div class="container" id="kronor"> <a name="kronor"></a>
-        <div class="row treatment-list">
+          <div class="row treatment-list">
           <div class="col-md-5 col-sm-5 pull-right nopadding">
               <img src="inner-pages/images/img-kronor-broar.jpg" alt="" class="img-responsive"> </div>
           <div class="col-md-7 col-sm-7 pull-left treatment-text">
@@ -238,6 +238,18 @@
         </div>
       </div>
     </div>
+    <div class="container" id="invisalign"> <a name="invisalign"></a>
+      <div class="row treatment-list">
+        <div class="col-md-5 col-sm-5 pull-left nopadding"> 
+            <img src="inner-pages/images/img-invisalign.jpg" alt="" class="img-responsive"> </div>
+        <div class="col-md-7 col-sm-7 pull-right treatment-text">
+          <h4>Invisalign - modern tandställning för vuxna</h4>
+          <div class="more font-16"> Invisalign är en nästan osynlig tandställning. Med hjälp av en serie genomskinliga och löstagbara plastskenor får du ett vackrare leende, snabbt och enkelt.
+            Tandställningen är för gluggar, ojämna tänder och bettfel. </div>
+        </div>
+      </div>
+    </div>
+    <div class="bg-grey">
     <div class="container" id="lappforstoring"> <a name="lappforstoring"></a>
       <div class="row treatment-list">
         <div class="col-md-5 col-sm-5 pull-left nopadding"> 
@@ -283,7 +295,7 @@
         </div>
       </div>
     </div>
-    <div class="bg-grey">
+    </div>
       <div class="container" id="rynkbehandling"> <a name="rynkbehandling"></a>
         <div class="row treatment-list">
           <div class="col-md-5 col-sm-5 pull-right nopadding"> 
@@ -300,18 +312,8 @@
           </div>
         </div>
       </div>
-    </div>
-    <div class="container" id="invisalign"> <a name="invisalign"></a>
-      <div class="row treatment-list">
-        <div class="col-md-5 col-sm-5 pull-left nopadding"> 
-            <img src="inner-pages/images/img-invisalign.jpg" alt="" class="img-responsive"> </div>
-        <div class="col-md-7 col-sm-7 pull-right treatment-text">
-          <h4>Invisalign - modern tandställning för vuxna</h4>
-          <div class="more font-16"> Invisalign är en nästan osynlig tandställning. Med hjälp av en serie genomskinliga och löstagbara plastskenor får du ett vackrare leende, snabbt och enkelt.
-            Tandställningen är för gluggar, ojämna tänder och bettfel. </div>
-        </div>
-      </div>
-    </div>
+    
+    
   </div>
   <!-- Main Ends --> 
   
