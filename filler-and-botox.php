@@ -82,10 +82,10 @@
     <section class="nopadding">
     <div class="container" id="forebyggande"> <a name="forebyggande"></a>
       <div class="row treatment-list first">
-          <div class="col-md-5 col-sm-5 pull-left nopadding"> 
-              <img src="inner-pages/images/img-fillers-and-botox-2.jpeg" alt="" class="img-responsive"> 
-          </div>
-        <div class="col-md-7 col-sm-7 pull-right treatment-text">
+        <div class="col-md-12 col-sm-12 pull-left nopadding mb30"> 
+          <img src="inner-pages/images/filler-botox-4.png" alt="" class=""> 
+        </div>
+        <div class="col-md-12 col-sm-12 pull-right treatment-text">
           <h4>Fillers and Botox</h4>
             <div class="font-16">
               <strong>Vi utför inte injektionsbehandling på dig som:</strong><br>
@@ -119,36 +119,24 @@
         </div>
       </div>
       <div class="row">
-          <div class="col-md-5">
-            <div class="img-container">
-              <img src="inner-pages/images/botox-fillers.jpeg" alt="" class=""> 
+          <div class="col-md-6">
+            <div class="img-container mb30 mh420">
+              <img src="inner-pages/images/filler-botox-2.png" alt="" class=""> 
             </div>
           </div>
-          <div class="col-md-2">
-            <div class="img-container">
-              <img src="inner-pages/images/botox-fillers3.jpg" alt="" class=""> 
-            </div>
+          <div class="col-md-6">
+              <div class="img-container mb30 mh420">
+                <img src="inner-pages/images/filler-botox-1.png" alt="" class=""> 
+              </div>
           </div>
-          <div class="col-md-5">
-            <div class="img-container">
-              <img src="inner-pages/images/botox-fillers2.jpg" alt="" class=""> 
-            </div>
+          <div class="col-md-12 mb30 mt30">
+              <div class="img-container text-center">
+                <img src="inner-pages/images/filler-botox-3.png" alt="" class="max-width-80"> 
+              </div>
           </div>
       </div>
     </div>
-    <!-- <div class="bg-grey">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="ba-slider">
-              <img src="images/teeth-whitening-after.jpg" alt="">
-              <div class="resize"> <img src="images/teeth-whitening-before.jpg" alt=""> </div>
-              <span class="handle"></span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div> -->
+  
   </div>
   <!-- Main Ends --> 
   
@@ -158,118 +146,8 @@
 </div>
 <!-- Core Javascripts --> 
 <script type="text/javascript" src="inner-pages/js/jquery.js"></script> 
-<script type="text/javascript" src="inner-pages/js/bootstrap.min.js"></script> 
-<script type="text/javascript">
-$(document).ready(function() {
-    // Configure/customize these variables.
-    var showChar = 400;  // How many characters are shown by default
-    var ellipsestext = "...";
-    var moretext = "Läs mer";
-    var lesstext = "Läs mindre";
-    $('.more').each(function() {
-        var content = $(this).html(); 
-        if(content.length > showChar) { 
-            var c = content.substr(0, showChar);
-            var h = content.substr(showChar, content.length - showChar);
- 
-            var html = c + '<span class="moreellipses">' + ellipsestext+ '</span><span class="morecontent"><span>' + h + '</span><div class="inner-links"><a href="" class="morelink links">' + moretext + '</a></div></span>';
- 
-            $(this).html(html);
-        }
-    }); 
-    $(".morelink").click(function(){
-        if($(this).hasClass("less")) {
-            $(this).removeClass("less");
-            $(this).html(moretext);
-        } else {
-            $(this).addClass("less");
-            $(this).html(lesstext);
-        }
-        $(this).parent().prev().toggle();
-        $(this).prev().toggle();
-        return false;
-    });
-});
-</script>
-  <!-- Before/After Slider JS -->
-  <script type="text/javascript">
-    // Call & init
-    $(document).ready(function() {
-      $('.ba-slider').each(function() {
-        var cur = $(this);
-        // Adjust the slider
-        var width = cur.width() + 'px';
-        cur.find('.resize img').css('width', width);
-        // Bind dragging events
-        drags(cur.find('.handle'), cur.find('.resize'), cur);
-      });
-    });
-    // Update sliders on resize. 
-    // Because we all do this: i.imgur.com/YkbaV.gif
-    $(window).resize(function() {
-      $('.ba-slider').each(function() {
-        var cur = $(this);
-        var width = cur.width() + 'px';
-        cur.find('.resize img').css('width', width);
-      });
-    });
+<script type="text/javascript" src="inner-pages/js/bootstrap.min.js"></script>
 
-    function drags(dragElement, resizeElement, container) {
-      // Initialize the dragging event on mousedown.
-      dragElement.on('mousedown touchstart', function(e) {
-
-        dragElement.addClass('draggable');
-        resizeElement.addClass('resizable');
-
-        // Check if it's a mouse or touch event and pass along the correct value
-        var startX = (e.pageX) ? e.pageX : e.originalEvent.touches[0].pageX;
-
-        // Get the initial position
-        var dragWidth = dragElement.outerWidth(),
-          posX = dragElement.offset().left + dragWidth - startX,
-          containerOffset = container.offset().left,
-          containerWidth = container.outerWidth();
-
-        // Set limits
-        minLeft = containerOffset + 10;
-        maxLeft = containerOffset + containerWidth - dragWidth - 10;
-
-        // Calculate the dragging distance on mousemove.
-        dragElement.parents().on("mousemove touchmove", function(e) {
-
-          // Check if it's a mouse or touch event and pass along the correct value
-          var moveX = (e.pageX) ? e.pageX : e.originalEvent.touches[0].pageX;
-
-          leftValue = moveX + posX - dragWidth;
-
-          // Prevent going off limits
-          if (leftValue < minLeft) {
-            leftValue = minLeft;
-          } else if (leftValue > maxLeft) {
-            leftValue = maxLeft;
-          }
-
-          // Translate the handle's left value to masked divs width.
-          widthValue = (leftValue + dragWidth / 2 - containerOffset) * 100 / containerWidth + '%';
-
-          // Set the new values for the slider and the handle. 
-          // Bind mouseup events to stop dragging.
-          $('.draggable').css('left', widthValue).on('mouseup touchend touchcancel', function() {
-            $(this).removeClass('draggable');
-            resizeElement.removeClass('resizable');
-          });
-          $('.resizable').css('width', widthValue);
-        }).on('mouseup touchend touchcancel', function() {
-          dragElement.removeClass('draggable');
-          resizeElement.removeClass('resizable');
-        });
-        e.preventDefault();
-      }).on('mouseup touchend touchcancel', function(e) {
-        dragElement.removeClass('draggable');
-        resizeElement.removeClass('resizable');
-      });
-    }
-  </script>
 
 <script type="text/javascript" src="js/navigation.js"></script>
 <script type="text/javascript" src="inner-pages/js/jquery.js"></script> 

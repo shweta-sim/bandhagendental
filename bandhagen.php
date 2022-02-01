@@ -119,12 +119,12 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12 margin-btm20">
-            <iframe allowfullscreen="" frameborder="0" width="100%" height="600" src="http://www.youtube.com/embed/cDp6rDFb6IY"></iframe>
+            <iframe allowfullscreen="" frameborder="0" width="100%" height="600" src="https://www.youtube.com/embed/cDp6rDFb6IY"></iframe>
           </div>
         </div>
         <div class="row">
           <div class="col-md-6 col-md-offset-3 margin-btm40">
-            <iframe allowfullscreen="" frameborder="0" width="100%" height="300" src="http://www.youtube.com/embed/NGsVo7sU72w"></iframe>
+            <iframe allowfullscreen="" frameborder="0" width="100%" height="300" src="https://www.youtube.com/embed/NGsVo7sU72w"></iframe>
           </div>
         </div>
       </div>

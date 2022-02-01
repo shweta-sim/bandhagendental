@@ -155,7 +155,7 @@
     </div>
     <div class="bg-grey">
         <div class="container" id="kronor"> <a name="kronor"></a>
-        <div class="row treatment-list">
+          <div class="row treatment-list">
           <div class="col-md-5 col-sm-5 pull-right nopadding">
               <img src="inner-pages/images/img-kronor-broar.jpg" alt="" class="img-responsive"> </div>
           <div class="col-md-7 col-sm-7 pull-left treatment-text">
@@ -238,11 +238,24 @@
         </div>
       </div>
     </div>
-    <div class="container" id="lappforstoring"> <a name="lappforstoring"></a>
+    <div class="container" id="invisalign"> <a name="invisalign"></a>
       <div class="row treatment-list">
         <div class="col-md-5 col-sm-5 pull-left nopadding"> 
-            <img src="inner-pages/images/img-lappforstoring.jpg" alt="" class="img-responsive"> </div>
+            <img src="inner-pages/images/img-invisalign.jpg" alt="" class="img-responsive"> </div>
         <div class="col-md-7 col-sm-7 pull-right treatment-text">
+          <h4>Invisalign - modern tandställning för vuxna</h4>
+          <div class="more font-16"> Invisalign är en nästan osynlig tandställning. Med hjälp av en serie genomskinliga och löstagbara plastskenor får du ett vackrare leende, snabbt och enkelt.
+            Tandställningen är för gluggar, ojämna tänder och bettfel. </div>
+        </div>
+      </div>
+    </div>
+    <div class="bg-grey">
+    <div class="container" id="lappforstoring"> <a name="lappforstoring"></a>
+      <div class="row treatment-list">
+        <div class="col-md-5 col-sm-5 pull-right nopadding"> 
+            <img src="inner-pages/images/img-lappforstoring.jpg" alt="" class="img-responsive"> 
+          </div>
+        <div class="col-md-7 col-sm-7 pull-left treatment-text">
           <h4>Läppförstoring och Fillerbehandling i Stockholm</h4>
 
           <div class="more font-16">Vill du att läpparna ska bli större i sin helhet, vill du framhäva läpparnas kontur eller göra munnen bredare?<br><br>
@@ -283,12 +296,12 @@
         </div>
       </div>
     </div>
-    <div class="bg-grey">
+    </div>
       <div class="container" id="rynkbehandling"> <a name="rynkbehandling"></a>
         <div class="row treatment-list">
-          <div class="col-md-5 col-sm-5 pull-right nopadding"> 
+          <div class="col-md-5 col-sm-5 pull-left nopadding"> 
               <img src="inner-pages/images/img-rynkbehandling.jpg" alt="" class="img-responsive"> </div>
-          <div class="col-md-7 col-sm-7 pull-left treatment-text">
+          <div class="col-md-7 col-sm-7 pull-right treatment-text">
             <h4>Rynkbehandling med Botox i Stockholm</h4>
             <div class="more font-16">Botox eller Vistabel/Dysport som produkten även kallas är en injektionsprodukt bestående av ett muskelavslappnande medel som injiceras i musklerna under huden. Där verkar Botox genom att blockera nervimpulserna till de områden som injicerats.<br>
               <br>
@@ -300,18 +313,8 @@
           </div>
         </div>
       </div>
-    </div>
-    <div class="container" id="invisalign"> <a name="invisalign"></a>
-      <div class="row treatment-list">
-        <div class="col-md-5 col-sm-5 pull-left nopadding"> 
-            <img src="inner-pages/images/img-invisalign.jpg" alt="" class="img-responsive"> </div>
-        <div class="col-md-7 col-sm-7 pull-right treatment-text">
-          <h4>Invisalign - modern tandställning för vuxna</h4>
-          <div class="more font-16"> Invisalign är en nästan osynlig tandställning. Med hjälp av en serie genomskinliga och löstagbara plastskenor får du ett vackrare leende, snabbt och enkelt.
-            Tandställningen är för gluggar, ojämna tänder och bettfel. </div>
-        </div>
-      </div>
-    </div>
+    
+    
   </div>
   <!-- Main Ends --> 
   
