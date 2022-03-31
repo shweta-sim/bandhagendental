@@ -12,6 +12,9 @@
 <link rel="icon" type="image/png" href="images/favicon.png">
 <link href="inner-pages/css/bootstrap.min.css" rel="stylesheet">
 <link href="inner-pages/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+<!-- Swipebox CSS -->
+<link href="plugins/swipebox/css/swipebox.css" rel="stylesheet">
 <link href="inner-pages/css/main.css" rel="stylesheet">
 <link href="css/template.css" rel="stylesheet">
 <link href="inner-pages/fonts/css/fontello.css" rel="stylesheet">
@@ -81,13 +84,53 @@
   <div class="main" id="main">
     <section class="nopadding">
     <div class="container" id="forebyggande"> <a name="forebyggande"></a>
-      <div class="row treatment-list first">
-            <div class="col-md-12 col-sm-12 text-center"> 
-                <h4>Coming Soon</h4>
+  
+        <div class="row treatment-list first">
+            <div class="col-md-4 wow fadeInUp" data-wow-delay="400ms">
+                <div class="work-item"><a href="images/bilder-1.jpeg" class="swipebox" rel="logos">
+                        <img src="images/bilder-1.jpeg" class="img-fluid" /></a>
+                </div>
             </div>
-      </div>
- 
-  </div>
+            <div class="col-md-4 wow fadeInUp" data-wow-delay="500ms">
+                <div class="work-item"><a href="images/bilder-2.jpeg" class="swipebox" rel="logos">
+                        <img src="images/bilder-2.jpeg" class="img-fluid" /></a></div>
+            </div>
+            <div class="col-md-4 wow fadeInUp" data-wow-delay="600ms">
+                <div class="work-item"><a href="images/bilder-3.jpeg" class="swipebox" rel="logos">
+                        <img src="images/bilder-3.jpeg" class="img-fluid" /></a></div>
+            </div>
+            <div class="col-md-4 wow fadeInUp" data-wow-delay="400ms">
+                <div class="work-item"><a href="images/bilder-4.jpeg" class="swipebox" rel="logos">
+                        <img src="images/bilder-4.jpeg" class="img-fluid" /></a></div>
+            </div>
+            <div class="col-md-4 wow fadeInUp" data-wow-delay="500ms">
+                <div class="work-item"><a href="images/bilder-5.jpeg" class="swipebox" rel="logos">
+                        <img src="images/bilder-5.jpeg" class="img-fluid" /></a></div>
+            </div>
+            <div class="col-md-4 wow fadeInUp" data-wow-delay="600ms">
+                <div class="work-item"><a href="images/bilder-6.jpeg" class="swipebox" rel="logos">
+                        <img src="images/bilder-6.jpeg" class="img-fluid" /></a></div>
+            </div>
+            <div class="col-md-4 wow fadeInUp" data-wow-delay="400ms">
+                <div class="work-item"><a href="images/bilder-7.jpeg" class="swipebox" rel="logos">
+                        <img src="images/bilder-7.jpeg" class="img-fluid" /></a></div>
+            </div>
+            <div class="col-md-4 wow fadeInUp" data-wow-delay="500ms">
+                <div class="work-item"><a href="images/bilder-8.jpeg" class="swipebox" rel="logos">
+                        <img src="images/bilder-8.jpeg" class="img-fluid" /></a></div>
+            </div>
+            <div class="col-md-4 wow fadeInUp" data-wow-delay="600ms">
+                <div class="work-item"><a href="images/bilder-9.jpeg" class="swipebox" rel="logos">
+                        <img src="images/bilder-9.jpeg" class="img-fluid" /></a></div>
+            </div>
+            <div class="col-md-4 wow fadeInUp" data-wow-delay="600ms">
+                <div class="work-item"><a href="images/bilder-10.jpeg" class="swipebox" rel="logos">
+                        <img src="images/bilder-10.jpeg" class="img-fluid" /></a></div>
+            </div>
+        </div>
+
+
+    </div>
   <!-- Main Ends --> 
   
   <!-- Footer Start -->
@@ -103,5 +146,16 @@
 <script type="text/javascript" src="inner-pages/js/jquery.js"></script> 
 <script type="text/javascript" language="javascript" src="inner-pages/js/bookmarkscroll.js"></script> 
 <script type="text/javascript" src="inner-pages/js/offcanvas.js"></script>
+    <script type="text/javascript" src="plugins/swipebox/js/jquery.swipebox.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            /* Basic Gallery */
+            $('.swipebox').swipebox();
+
+            /* Video */
+            $('.swipebox-video').swipebox();
+
+        });
+    </script>
 </body>
 </html>

@@ -1012,3 +1012,27 @@ ul.list li {
 
 
 
+/*bilder page*/
+
+/*bilder page*/
+
+.work-item {
+	position: relative;
+	margin-bottom: 30px;
+}
+
+.work-item img {
+	width: 100%;
+	height: auto;
+	border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	box-shadow: 0 0 10px rgba(31, 29, 29, .4);
+	-moz-box-shadow: 0 0 10px rgba(31, 29, 29, .4);
+	-webkit-box-shadow: 0 0 10px rgba(31, 29, 29, .4);
+	overflow: hidden;
+}
+
+.work-item:hover img {
+	border: 2px solid transparent;
+}
