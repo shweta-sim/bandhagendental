@@ -859,3 +859,43 @@ nav ul li a:hover{
     min-height: 420px;
     max-height: 420px;
 }
+.price-tab{
+    text-align: center;
+}
+.clickme{
+    display: inline;
+    padding: 0 15px;
+}
+.activelink,
+.activelink:focus{
+    color: #204849;
+}
+table.pricelist2 tr:first-child {
+    padding: 6px 20px !important;
+    color: #204849 !important;
+    font-weight: bold !important;
+    background: #ffffff !important;
+}
+
+table.pricelist2 tr.divider {
+    height: 5px !important;
+    background: #f1f5f7 !important;
+}
+table.pricelist2 {
+    width: 100% !important;
+}
+table.pricelist2 tr td:nth-child(1){
+    width: 50% !important;
+    padding: 6px 20px;
+}
+table.pricelist2 tr td:nth-child(2) {
+    width: 50% !important;
+    padding: 6px 20px !important;
+    color: #b79b5b;
+    font-weight: bold !important;
+    background: #ffffff !important;
+}
+table.pricelist2 tr.divider td{
+    padding: 0 !important;
+    background: none !important;
+}

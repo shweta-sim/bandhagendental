@@ -91,9 +91,22 @@
         <div class="main" id="main">
             <section>
                 <div class="container margin-btm40">
-
                     <div class="row">
-                        <div class="col-md-8 col-md-offset-2">            
+                        <div class="col-md-8 col-md-offset-2">
+                            <ul class="price-tab">
+                                <li class="clickme">
+                                    <a href="javascript:;" data-tag="one" class="activelink">Tandvård</a>
+                                </li>
+                                <li class="clickme">
+                                    <a href="javascript:;" data-tag="two">Injektionsbehandlingar Botox-Fillers</a>
+                                </li>
+                            </ul>    
+                        </div>  
+                        <div class="col-md-8 col-md-offset-2"> 
+                        <div id="container">
+                            <div class="tabList" id="one">                      
+                        <div class="row">
+                            <div class="col-md-12 ">            
                             <h3>Prislista</h3>
                             <h4>Vad kommer ditt besök att kosta!</h4>
                             <p>För att kunna ge dig en exakt prisuppgift behöver vi först undersöka din mun och ditt tandvårdsbehov. Därför är det viktigt att du ser priserna i prislistan som en vägledning.</p>
@@ -133,18 +146,6 @@
                                         <td></td>
                                         <td></td>
                                     </tr>
-                    <!--                <tr>
-                                      <td>107-0</td>
-                                      <td>Omfattande kompletterande undersökning, utförd av tandläkare</td>
-                                      <td>1 070</td>
-                                      <td>1 070</td>
-                                    </tr>
-                                    <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>-->
                                     <tr>
                                         <td>107</td>
                                         <td>Omfattande kompletterande undersökning, utförd av tandläkare</td>
@@ -284,18 +285,6 @@
                                         <td></td>
                                         <td></td>
                                     </tr>
-                    <!--                <tr>
-                                      <td>125-1</td>
-                                      <td>Röntgenundersökning, extraoral (profilröntgen eller frontal bild) </td>
-                                      <td>300</td>
-                                      <td>510</td>
-                                    </tr>
-                                    <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>-->
                                     <tr>
                                         <td>126</td>
                                         <td>Röntgenundersökning, omfattande</td>
@@ -326,42 +315,7 @@
                                         <td>630</td>
                                         <td>625</td>
                                     </tr>
-                    <!--                <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>-->
-                    <!--                <tr>
-                                      <td>162</td>
-                                      <td>Laboratoriekostnader vid mikrobiologisk undersökning </td>
-                                      <td>Faktura</td>
-                                      <td>320</td>
-                                    </tr>
-                                    <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>
-                                    <tr>
-                                      <td>163</td>
-                                      <td>Biopsi, åtgärden innefattar tagande av biopsi, eventuell sutur och svar</td>
-                                      <td>970</td>
-                                      <td>960</td>
-                                    </tr>
-                                    <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>
-                                    <tr>
-                                      <td>164</td>
-                                      <td>Laboratoriekostnad vid patologanatomisk diagnostik (PAD)</td>
-                                      <td>Faktura</td>
-                                      <td>525</td>
-                                    </tr>-->
+                
                                 </table>
                             </div>
 
@@ -374,18 +328,7 @@
                                         <td class="text-green">V&aring;rt pris</td>
                                         <td class="text-green">Referenspris</td>
                                     </tr>
-                    <!--                <tr>
-                                      <td>201-0</td>
-                                      <td>Information eller instruktion vid risk för munhälsorelaterade sjukdomar eller problem,                  mindre omfattande</td>
-                                      <td>80</td>
-                                      <td>435</td>
-                                    </tr>
-                                    <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>-->
+                   
                                     <tr>
                                         <td>201</td>
                                         <td>Information eller instruktion vid risk för munhälsorelaterade sjukdomar/problem</td>
@@ -535,18 +478,7 @@
                                         <td></td>
                                         <td></td>
                                     </tr>
-                    <!--                <tr>
-                                      <td>311-0</td>
-                                      <td>Instruktion eller information vid munhälsorelaterade sjukdomar eller problem, mindre omfattande</td>
-                                      <td>225</td>
-                                      <td>450</td>
-                                    </tr>
-                                    <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>-->
+             
                                     <tr>
                                         <td>311</td>
                                         <td>Instruktion eller information vid munhälsorelaterade sjukdomar eller problem</td>
@@ -565,18 +497,7 @@
                                         <td>350</td>
                                         <td>175</td>
                                     </tr>
-                    <!--                <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>-->
-                    <!--                <tr>
-                                      <td>313</td>
-                                      <td>Beteendemedicinsk behandling, 60 minuter eller mer</td>
-                                      <td>1 050</td>
-                                      <td>980</td>
-                                    </tr>                -->
+                  
                                 </table>
                             </div>
 
@@ -589,42 +510,7 @@
                                         <td class="text-green">V&aring;rt pris</td>
                                         <td class="text-green">Referenspris</td>
                                     </tr>
-                    <!--                <tr>
-                                      <td>314</td>
-                                      <td>Beteendemedicinsk behandling </td>
-                                      <td>525</td>
-                                      <td>455</td>
-                                    </tr>
-                                    <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>-->
-                    <!--                <tr>
-                                      <td>321-0</td>
-                                      <td>Icke-operativ behandling av kariessjukdom, mindre omfattande</td>
-                                      <td>240</td>
-                                      <td>485</td>
-                                    </tr>
-                                    <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>
-                                    <tr>
-                                      <td>321</td>
-                                      <td>Icke-operativ behandling av kariessjukdom</td>
-                                      <td>485</td>
-                                      <td>485</td>
-                                    </tr>
-                                    <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>-->
+                  
                                     <tr>
                                         <td>322</td>
                                         <td>Stegvis exkavering</td>
@@ -687,48 +573,7 @@
                                         <td></td>
                                         <td></td>
                                     </tr>
-                    <!--                <tr>
-                                      <td>362</td>
-                                      <td>Lustgassedering, per gång </td>
-                                      <td>825</td>
-                                      <td>825</td>
-                                    </tr> 
-                                    <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>
-                                    <tr>
-                                      <td>36A</td>
-                                      <td>Premedicinering med Dormicum</td>
-                                      <td>525</td>
-                                      <td>0</td>
-                                    </tr> 
-                                    <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>
-                                    <tr>
-                                      <td>36B</td>
-                                      <td>Psykodonti </td>
-                                      <td>450</td>
-                                      <td>0</td>
-                                    </tr> 
-                                    <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>
-                                    <tr>
-                                      <td>36C</td>
-                                      <td>Psykodonti mer omfattande </td>
-                                      <td>900</td>
-                                      <td>0</td>
-                                    </tr>                -->
+                 
                                 </table>
                             </div>
 
@@ -1241,42 +1086,7 @@
                                         <td>1 500</td>
                                         <td>1 045</td>
                                     </tr>
-                    <!--                <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>-->
-                    <!--                <tr>
-                                      <td>50C</td>
-                                      <td>Behandling av tand med resorption, perforation eller öppet apex, inkl material</td>
-                                      <td>1 800</td>
-                                      <td>0</td>
-                                    </tr>
-                                    <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>-->
-                    <!--                <tr>
-                                      <td>50D</td>
-                                      <td>Borttagande av frakturerad fil i rotkanal</td>
-                                      <td>900</td>
-                                      <td>0</td>
-                                    </tr>
-                                    <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>-->
-                    <!--                <tr>
-                                      <td>50E</td>
-                                      <td>Borttagande av frakturerad fil i rotkanal, mer omfattande</td>
-                                      <td>1 800</td>
-                                      <td>0</td>
-                                    </tr>               -->
+                  
                                 </table>
                             </div>
                             <div class="pricing-table margin-btm40">
@@ -1354,18 +1164,7 @@
                                         <td>960</td>
                                         <td>760</td>
                                     </tr>
-                    <!--                <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>
-                                    <tr>
-                                      <td>60B</td>
-                                      <td>Antisnarkskena, moms tillkommer</td>
-                                      <td>6 995</td>
-                                      <td>0</td>
-                                    </tr>-->
+                 
                                 </table>
                             </div>
                             <div class="pricing-table margin-btm40">
@@ -2991,42 +2790,7 @@
                                         <td></td>
                                         <td></td>
                                     </tr>
-                    <!--              <tr>
-                                    <td>SL 2-1</td>
-                                    <td>Blekning, upprepad</td>
-                                    <td>600</td>
-                                    <td>&nbsp;</td>
-                                  </tr>
-                                  <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>
-                                  <tr>
-                                    <td>SL 3</td>
-                                    <td>Blekning, avital tand</td>
-                                    <td>925</td>
-                                    <td>&nbsp;</td>
-                                  </tr>
-                                  <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>
-                                  <tr>
-                                    <td>SL 3-1</td>
-                                    <td>Blekning, avital tand, inläggsbyte</td>
-                                    <td>350</td>
-                                    <td>&nbsp;</td>
-                                  </tr>
-                                  <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>-->
+                
                                     <tr>
                                         <td>SL 4</td>
                                         <td>Fastsättning eller borttagning av    tandsmycke</td>
@@ -3075,54 +2839,7 @@
                                         <td></td>
                                         <td></td>
                                     </tr>
-                    <!--              <tr>
-                                    <td>SL 6</td>
-                                    <td>Laser per behandlingstillfälle</td>
-                                    <td>300</td>
-                                    <td>&nbsp;</td>
-                                  </tr>
-                                  <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>
-                                  <tr>
-                                    <td>FRTVK</td>
-                                    <td>Frisktandvård,  tillägg vid singelkrona, helkeramisk</td>
-                                    <td>600</td>
-                                    <td>&nbsp;</td>
-                                  </tr>
-                                  <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>
-                                  <tr>
-                                    <td>FRTVG</td>
-                                    <td>Frisktandvård,  tillägg vid singelkrona eller    laboratorieframställd pelare, guld</td>
-                                    <td>1 000</td>
-                                    <td>&nbsp;</td>
-                                  </tr>
-                                  <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>
-                                  <tr>
-                                    <td>SLB</td>
-                                    <td>Delbetalning vid uppgjord    betalningsplan</td>
-                                    <td>Belopp</td>
-                                    <td>&nbsp;</td>
-                                  </tr>
-                                  <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>-->
+    
                                     <tr>
                                         <td>IN</td>
                                         <td>Skriftligt intyg</td>
@@ -3189,28 +2906,6 @@
                                         <td></td>
                                         <td></td>
                                     </tr>
-                    <!--                <tr>
-                                      <td></td>
-                                      <td>Uteblivande/sent återbud hos specialist</td>
-                                      <td>950kr/tim</td>
-                                      <td>&nbsp;</td>
-                                    </tr>
-                                    <tr class="divider">
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>
-                                    <tr>
-                                      <td></td>
-                                      <td>
-                                            Uteblivande/sent återbud vid Nödvändig tandvård och LIS
-                                      </td>
-                                      <td>
-                                            Besöksavgift
-                                      </td>
-                                      <td>&nbsp;</td>
-                                    </tr>                -->
                                 </table>
                             </div>
                             <div>
@@ -3230,7 +2925,88 @@
                             </div>
 
 
+                           </div>
                         </div>
+                    </div>
+                            <div class="tabList hide" id="two">
+                                <div class="row">
+                                    <div class="col-md-12 ">  
+                                        
+                                    <div class="pricing-table margin-btm40">
+                                        <h5>Prislista Botox- Fillers</h5>
+                                        <table cellspacing="0" cellpadding="0" class="pricelist2">
+                                            <tr>
+                                                <td>Behandling</td>
+                                                <td class="text-green">V&aring;rt pris</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Läppar med Revolax 0,5 ml</td>
+                                                <td>1250 kr (ord. pris 2500 kr)</td>
+                                            </tr>
+                                            <tr class="divider">
+                                                <td></td>
+                                                <td></td>
+                                            </tr>
+                                            <tr>
+                                                <td>Läppar med Revolax 1,0 ml</td>
+                                                <td>1750 kr (ord pris 3500 kr)</td>
+                                            
+                                            </tr>
+                                            <tr class="divider">
+                                                <td></td>
+                                                <td></td>
+                                            </tr>
+                                            <tr>
+                                                <td>Kinder</td>
+                                                <td>1800 kr (1,0 ml)</td>
+                                            
+                                            </tr>
+                                            <tr class="divider">
+                                                <td></td>
+                                                <td></td>
+                                            </tr>
+                                            <tr>
+                                                <td>Nasolabial veck</td>
+                                                <td>1800 kr (1,0 ml)</td>
+                                            </tr>                               
+
+                                        </table>
+                                    </div>
+                                    <div class="pricing-table margin-btm40">
+                                        <h5>Botulinumtoxin (Botox)</h5>
+                                        <table cellspacing="0" cellpadding="0" class="pricelist2">
+                                            <tr>
+                                                <td>Behandling</td>
+                                                <td class="text-green">V&aring;rt pris</td>
+                                            </tr>
+                                            <tr>
+                                                <td>1 område</td>
+                                                <td>900 kr</td>
+                                            </tr>
+                                            <tr class="divider">
+                                                <td></td>
+                                                <td></td>
+                                            </tr>
+                                            <tr>
+                                                <td>2 områden</td>
+                                                <td>1500 kr</td>
+                                            
+                                            </tr>
+                                            <tr class="divider">
+                                                <td></td>
+                                                <td></td>
+                                            </tr>
+                                            <tr>
+                                                <td>3 områden</td>
+                                                <td>2000 kr</td>
+                                            
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>   
                     </div>
                 </div>
             </section>
@@ -3253,6 +3029,16 @@
             e.preventDefault();
         });
     </script>
+   <script>
+        $(document).on('click', '.clickme a', function(){
+            $('.clickme a').removeClass('activelink');
+            $(this).addClass('activelink');
+            var tagid = $(this).data('tag');
+            $('.tabList').removeClass('tabActive').addClass('hide');
+            $('#'+tagid).addClass('tabActive').removeClass('hide');
+        });
+    
+   </script> 
     <script type="text/javascript" src="js/navigation.js"></script>
 
     <script type="text/javascript" src="inner-pages/js/jquery.js"></script> 
