@@ -67,7 +67,7 @@
                                 <p class="text">Akut</p>
                             </a>
                         </div>
-                        <div class="valcommen-box brown mb2">
+                        <!--<div class="valcommen-box brown mb2">
                             <a href="lista-mig.php">
                                 <span>
                                     <img src="images/icon_lista_mig.png" alt="" class="link-icon-show"/>
@@ -75,8 +75,8 @@
                                 </span>
                                 <p class="text">Lista Mig</p>
                             </a>
-                        </div>
-                        <div class="valcommen-box dark-brown mb2">
+                        </div>-->
+                         <div class="valcommen-box dark-brown mb2">
                             <a href="ring-mig.php">
                                 <span>
                                     <img src="images/icon_ring_mig.png" alt="" class="link-icon-show"/>
@@ -84,7 +84,7 @@
                                 </span>
                                 <p class="text">Ring Mig</p>
                             </a>
-                        </div>
+                        </div> 
                     </div>
                 </div> 
             </div>         

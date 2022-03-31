@@ -86,24 +86,51 @@
           </div>
         </div>
         <div class="row margin-btm40">
-          <div class="col-md-12 font-16"> Bandhagen dental Care AB och Akuttandvården i Hässelby erbjuder följande betalningsalternativ:<br>
-            <br>
-            - Kontant betalning.<br>
-            - Betalkort.<br>
-            - Delbetalning med Wasa kredit AB.<br>
-            <br>
-            Vi samarbetar med Wasa kredit, vilket ger möjlighet till räntefria lån för tandvård.<br>
-            <br>
-            <strong class="text-brown">Delbetala din Tandvård med vår smarta finansieringslösning</strong><br>
-            Tillsammans med Wasa Kredit erbjuder vi en smart och förmånlig finansieringslösning som riktar sig till dig som planerar att investera i dig själv. Nedan finner du de alternativ och möjligheter som gäller. Välj själv vilken månadskostnad som passar just Er. Finansieringen är flexibel och kan när som helst förtidslösas utan extra kostnader.<br>
-            <br>
-            - Ansökan tar bara på några minuter<br>
-            - Välj den månadskostnad som passar Er bäst<br>
-            - Betala i din egen takt<br>
-            - Köp nu betala om tre (3) månader<br>
-            - Snabbt, enkelt och smart<br>
-            <br>
-            Tand lånet är ett lån med rak amortering vilket gör att månadskostnaden sjunker. Lånet går att förtidslösa när som helst utan extra kostnader. </div>          
+          <div class="col-md-12 font-16"> 
+            
+Bandhagen dental Care AB och Akuttandvården i Hässelby erbjuder följande betalningsalternativ:<br><br>
+
+- Betalkort<br>
+- Swish<br>
+- Delbetalning med Wasa kredit AB eller Payzmart.<br><br>
+
+Vi är en kontantfri klinik och fakturerar ej. Vi samarbetar med Payzmart
+och Wasa Kredit för eventuell avbetalningsplan, med tillhörande
+kreditprövning.<br><br>
+
+Payzmart och Wasa kredit ger möjlighet till räntefria lån för din
+tandvård.<br><br>
+
+<strong class="text-brown">Delbetala din Tandvård med vår smarta finansieringslösning</strong><br>
+Tillsammans med Payzmart och Wasa Kredit erbjuder vi en smart och
+förmånlig finansieringslösning som riktar sig till dig som planerar att
+investera i dig själv. Nedan finner du de alternativ och möjligheter som
+gäller. Välj själv vilken månadskostnad som passar just Er.
+Finansieringen är flexibel och kan när som helst förtidslösas utan extra
+kostnader.<br><br>
+
+- Ansökan tar bara på några minuter<br>
+- Välj den månadskostnad som passar Er bäst<br>
+- Betala i din egen takt<br>
+- Köp nu betala om tre (3) månader<br>
+- Snabbt, enkelt och smart<br><br>
+
+Tand lånet är ett lån med rak amortering vilket gör att månadskostnaden
+sjunker. Lånet går att förtidslösa när som helst utan extra kostnader.<br><br>
+
+
+
+<strong class="text-brown">Grundkrav för ansökan hos Payzmart och Wasa kredit :</strong><br>
+
+- Du har ett giltigt Mobilt BankID<br>
+- Du är minst 20 år<br>
+- Du har inga betalningsanmärkningar<br>
+- Du har varit folkbokförd i Sverige i minst 3 år<br>
+- Du är fast anställd eller pensionär i Sverige<br>
+- Du har en fast årsinkomst på minst 160 000 kronor (Brutto efter avdrag)<br> <br> <br> 
+
+<strong class="text-brown">Wasa kredit</strong>
+</div>          
             
           </div>
           
@@ -292,6 +319,175 @@
                 </tr>               
               </table>
             </div>
+
+
+<br><br>
+<strong class="text-brown">Payzmart </strong><br><br>
+
+
+            <div class="pricing-table">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="15%" valign="top" class="item-price text-green">Delbetalningstid</td>
+                  <td width="15%" align="center" valign="top" class="item-price text-green">3 mån</td>
+                  <td width="15%" align="center" valign="top" class="item-price text-green">6 mån</td>
+                  <td width="15%" align="center" valign="top" class="item-price text-green">12 mån</td>
+                  <td width="15%" align="center" valign="top" class="item-price text-green">18 mån</td>
+                  <td width="15%" align="center" valign="top" class="item-price text-green">24 mån</td>
+                  <td width="15%" align="center" valign="top" class="item-price text-green">36 mån</td>
+                </tr>
+                <tr>
+                  <td valign="top" class="item-title">Exempelbelopp</td>
+                  <td align="center" valign="top" class="item-title">10 000 kr</td>
+                  <td align="center" valign="top" class="item-title">10 000 kr</td>
+                  <td align="center" valign="top" class="item-title">10 000 kr</td>
+                  <td align="center" valign="top" class="item-title">10 000 kr</td>
+                  <td align="center" valign="top" class="item-title">10 000 kr</td>
+                  <td align="center" valign="top" class="item-title">10 000 kr</td>
+                </tr>
+
+                <tr class="divider">
+                  <td valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td valign="top"></td>
+                </tr>
+
+                <tr>
+                  <td valign="top" class="item-title">Startavgift</td>
+                  <td align="center" valign="top">95 kr</td>
+                  <td align="center" valign="top">195 kr</td>
+                  <td align="center" valign="top">295 kr</td>
+                  <td align="center" valign="top">395 kr</td>
+                  <td align="center" valign="top">495 kr</td>
+                  <td align="center" valign="top">495 kr</td>
+                </tr>
+
+                <tr class="divider">
+                  <td valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td valign="top"></td>
+                </tr>
+
+                <tr>
+                  <td valign="top" class="item-title">Aviseringsavgift</td>
+                  <td align="center" valign="top" class="item-title">29 kr</td>
+                  <td align="center" valign="top" class="item-title">29 kr</td>
+                  <td align="center" valign="top" class="item-title">29 kr</td>
+                  <td align="center" valign="top" class="item-title">29 kr</td>
+                  <td align="center" valign="top" class="item-title">29 kr</td>
+                  <td align="center" valign="top" class="item-title">29 kr</td>
+
+                </tr>
+                   <tr class="divider">
+                  <td valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td valign="top"></td>
+                </tr>
+
+                <tr>
+                  <td valign="top" class="item-title">Kreditränta</td>
+                  <td align="center" valign="top" class="item-title">0%</td>
+                  <td align="center" valign="top" class="item-title">0%</td>
+                  <td align="center" valign="top" class="item-title">9,95%</td>
+                  <td align="center" valign="top" class="item-title">9,95%</td>
+                  <td align="center" valign="top" class="item-title">9,95%</td>
+                  <td align="center" valign="top" class="item-title">9,95%</td>
+                </tr>
+            
+                <tr class="divider">
+                  <td valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td valign="top"></td>
+                </tr>
+
+                <tr>
+                  <td valign="top" class="item-title">Effektivränta</td>
+                  <td align="center" valign="top" class="item-title">11,5%</td>
+                  <td align="center" valign="top" class="item-title">13,5%</td>
+                  <td align="center" valign="top" class="item-title">24,5%</td>
+                  <td align="center" valign="top" class="item-title">24,16%</td>
+                  <td align="center" valign="top" class="item-title">24,02%</td>
+                  <td align="center" valign="top" class="item-title">22,0%</td>
+                </tr>
+            
+                <tr class="divider">
+                  <td valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td valign="top"></td>
+                </tr>
+
+                <tr>
+                  <td valign="top" class="item-title">Månadsbelopp</td>
+                  <td align="center" valign="top" class="item-title">3362 kr</td>
+                  <td align="center" valign="top" class="item-title">1696 kr</td>
+                  <td align="center" valign="top" class="item-title">908 kr</td>
+                  <td align="center" valign="top" class="item-title">629 kr</td>
+                  <td align="center" valign="top" class="item-title">490 kr</td>
+                  <td align="center" valign="top" class="item-title">351 kr</td>
+                </tr>
+          
+                <tr class="divider">
+                  <td valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td valign="top"></td>
+                </tr>
+
+                <tr>
+                  <td valign="top" class="item-price text-green">Totalsumma</td>
+                  <td align="center" valign="top" class="item-price text-green">10 182 kr</td>
+                  <td align="center" valign="top" class="item-price text-green">10 369 kr</td>
+                  <td align="center" valign="top" class="item-price text-green">11 190 kr</td>
+                  <td align="center" valign="top" class="item-price text-green">11 717 kr</td>
+                  <td align="center" valign="top" class="item-price text-green">12 160 kr</td>
+                  <td align="center" valign="top" class="item-price text-green">13 146 kr</td>
+                </tr>
+
+                <tr class="divider">
+                  <td valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td align="center" valign="top"></td>
+                  <td valign="top"></td>
+                </tr>
+              </table>
+            </div><br>
+
+            Ränta och avgifter för respektive vald avbetalningstid enligt ovan. All hantering av personuppgifter sker i enlighet med gällande lagstifning. Dröjsmålsränta tas ut med vid var tud gällande referensränta + 24%.
+
+
           
           </div>
         </div>

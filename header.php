@@ -44,9 +44,9 @@
                     </ul>
                 </li>
                 <li>
-                    <a href="priser.php" title="">Priser</a>
+                    <a href="#" title="">Priser</a>
                     <ul>
-                        <li><a href="prislista.php" title="">- Prislista</a></li>
+                        <li><a href="#" title="">- Prislista</a></li>
                         <li><a href="betalningsalternativ.php" title="">- Betalningsalternativ</a></li>
                         <li><a href="tandvardsforsakring.php" title="">- Tandvårdsförsäkring</a></li>
                     </ul>
@@ -59,8 +59,8 @@
         <div class="btn-extars">
             <ul class="account-btns">
                 <li class="signup-popup"><a href="akut.php"><i class="fas fa-tooth"></i> Akut</a></li>
-                <li class="signup-popup"><a href="lista-mig.php"><i class="fas fa-clipboard-list"></i> Lista Mig</a></li>
-                <!-- <li class="signup-popup"><a href="ring-mig.php"><i class="fas fa-mobile-alt"></i> Ring Mig</a></li> -->
+                <!-- <li class="signup-popup"><a href="lista-mig.php"><i class="fas fa-clipboard-list"></i> Lista Mig</a></li>-->
+                <li class="signup-popup"><a href="ring-mig.php"><i class="fas fa-mobile-alt"></i> Ring Mig</a></li> 
                 <li class="signup-popup"><a href="https://bandhagen.opusdentalonline.com/" target="_blank"><i class="fas fa-calendar-alt"></i> Boka Online</a></li>
             </ul>
         </div><!-- Btn Extras -->
@@ -79,12 +79,12 @@
                     <li class="signup-popup">
                         <a href="javascript:void();" data-toggle="modal" data-target="#akut"><i class="fas fa-tooth"></i> Akut</a>
                     </li>
-                    <li class="signup-popup">
-                        <a href="javascript:void();" data-toggle="modal" data-target="#lista-mig"><i class="fas fa-clipboard-list"></i> Lista Mig</a>
-                    </li>
                     <!-- <li class="signup-popup">
-                        <a href="javascript:void();" data-toggle="modal" data-target="#ring-mig"><i class="fas fa-mobile-alt"></i> Ring Mig</a>
+                        <a href="javascript:void();" data-toggle="modal" data-target="#lista-mig"><i class="fas fa-clipboard-list"></i> Lista Mig</a>
                     </li> -->
+                     <li class="signup-popup">
+                        <a href="javascript:void();" data-toggle="modal" data-target="#ring-mig"><i class="fas fa-mobile-alt"></i> Ring Mig</a>
+                    </li> 
                     <li class="signup-popup"><a href="https://bandhagen.opusdentalonline.com/" target="_blank"><i class="fas fa-calendar-alt"></i> Boka Online</a></li>
                 </ul>
             </div><!-- Btn Extras -->
@@ -118,7 +118,7 @@
                         </ul>
                     </li>
                     <li class="menu-item-has-children nav-priser">
-                        <a href="priser.php" class="position-relative" title="">Priser</a>
+                        <a href="#" class="position-relative" title="">Priser</a>
                         <ul>
                             <li><a href="prislista.php" title="">Prislista</a></li>
                             <li><a href="betalningsalternativ.php" title="">Betalningsalternativ</a></li>
