@@ -87,45 +87,45 @@
   
         <div class="row treatment-list first">
             <div class="col-md-4 wow fadeInUp" data-wow-delay="400ms">
-                <div class="work-item"><a href="images/bilder-1.jpeg" class="swipebox" rel="logos">
-                        <img src="images/bilder-1.jpeg" class="img-fluid" /></a>
+                <div class="work-item"><a href="images/bilder-1.jpg" class="swipebox" rel="logos">
+                        <img src="images/bilder-1.jpg" class="img-fluid" /></a>
                 </div>
             </div>
             <div class="col-md-4 wow fadeInUp" data-wow-delay="500ms">
-                <div class="work-item"><a href="images/bilder-2.jpeg" class="swipebox" rel="logos">
-                        <img src="images/bilder-2.jpeg" class="img-fluid" /></a></div>
+                <div class="work-item"><a href="images/bilder-2.jpg" class="swipebox" rel="logos">
+                        <img src="images/bilder-2.jpg" class="img-fluid" /></a></div>
             </div>
             <div class="col-md-4 wow fadeInUp" data-wow-delay="600ms">
-                <div class="work-item"><a href="images/bilder-3.jpeg" class="swipebox" rel="logos">
-                        <img src="images/bilder-3.jpeg" class="img-fluid" /></a></div>
+                <div class="work-item"><a href="images/bilder-3.jpg" class="swipebox" rel="logos">
+                        <img src="images/bilder-3.jpg" class="img-fluid" /></a></div>
             </div>
             <div class="col-md-4 wow fadeInUp" data-wow-delay="400ms">
-                <div class="work-item"><a href="images/bilder-4.jpeg" class="swipebox" rel="logos">
-                        <img src="images/bilder-4.jpeg" class="img-fluid" /></a></div>
+                <div class="work-item"><a href="images/bilder-4.jpg" class="swipebox" rel="logos">
+                        <img src="images/bilder-4.jpg" class="img-fluid" /></a></div>
             </div>
             <div class="col-md-4 wow fadeInUp" data-wow-delay="500ms">
-                <div class="work-item"><a href="images/bilder-5.jpeg" class="swipebox" rel="logos">
-                        <img src="images/bilder-5.jpeg" class="img-fluid" /></a></div>
+                <div class="work-item"><a href="images/bilder-5.jpg" class="swipebox" rel="logos">
+                        <img src="images/bilder-5.jpg" class="img-fluid" /></a></div>
             </div>
             <div class="col-md-4 wow fadeInUp" data-wow-delay="600ms">
-                <div class="work-item"><a href="images/bilder-6.jpeg" class="swipebox" rel="logos">
-                        <img src="images/bilder-6.jpeg" class="img-fluid" /></a></div>
+                <div class="work-item"><a href="images/bilder-6.jpg" class="swipebox" rel="logos">
+                        <img src="images/bilder-6.jpg" class="img-fluid" /></a></div>
             </div>
             <div class="col-md-4 wow fadeInUp" data-wow-delay="400ms">
-                <div class="work-item"><a href="images/bilder-7.jpeg" class="swipebox" rel="logos">
-                        <img src="images/bilder-7.jpeg" class="img-fluid" /></a></div>
+                <div class="work-item"><a href="images/bilder-7.jpg" class="swipebox" rel="logos">
+                        <img src="images/bilder-7.jpg" class="img-fluid" /></a></div>
             </div>
             <div class="col-md-4 wow fadeInUp" data-wow-delay="500ms">
-                <div class="work-item"><a href="images/bilder-8.jpeg" class="swipebox" rel="logos">
-                        <img src="images/bilder-8.jpeg" class="img-fluid" /></a></div>
+                <div class="work-item"><a href="images/bilder-8.jpg" class="swipebox" rel="logos">
+                        <img src="images/bilder-8.jpg" class="img-fluid" /></a></div>
             </div>
             <div class="col-md-4 wow fadeInUp" data-wow-delay="600ms">
-                <div class="work-item"><a href="images/bilder-9.jpeg" class="swipebox" rel="logos">
-                        <img src="images/bilder-9.jpeg" class="img-fluid" /></a></div>
+                <div class="work-item"><a href="images/bilder-9.jpg" class="swipebox" rel="logos">
+                        <img src="images/bilder-9.jpg" class="img-fluid" /></a></div>
             </div>
             <div class="col-md-4 wow fadeInUp" data-wow-delay="600ms">
-                <div class="work-item"><a href="images/bilder-10.jpeg" class="swipebox" rel="logos">
-                        <img src="images/bilder-10.jpeg" class="img-fluid" /></a></div>
+                <div class="work-item"><a href="images/bilder-10.jpg" class="swipebox" rel="logos">
+                        <img src="images/bilder-10.jpg" class="img-fluid" /></a></div>
             </div>
         </div>
 
