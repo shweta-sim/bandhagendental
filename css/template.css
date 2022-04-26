@@ -868,6 +868,7 @@ nav ul li a:hover{
 }
 .activelink,
 .activelink:focus{
+    border-bottom: 2px solid #204849;
     color: #204849;
 }
 table.pricelist2 tr:first-child {

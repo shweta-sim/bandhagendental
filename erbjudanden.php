@@ -1,6 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-226506056-1"></script>;
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+
+ gtag('config', 'UA-226506056-1');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KH3F684');</script>
+<!-- End Google Tag Manager -->
+
+
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -61,6 +80,11 @@
 </script>
 </head>
 <body id="innerpage">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KH3F684";
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
 <div class="wrap ccm-page">
     <!-- Header Start -->    
 	<?php include("header.php"); ?>
@@ -101,10 +125,10 @@
                 <div class="col-md-6 margin-btm20">
                 	<div class="pricing-table">
                     	<div class="grid-title font-16">Introduktionserbjudande Fillers:</div>
-                      <div class="grid-row1">Läppar med Revolax 0,5 ml 1250 kr (ord. pris 2500 kr)<br>
-                          Läppar med Revolax 1.0 ml 1750 kr (ord pris 3500 kr)<br>
-                          Kinder 1800 kr 1.0 ml (ord pris 2800 kr)<br>
-                          Nasolabial veck 1800 kr (ord pris 2800 kr)<br>
+                      <div class="grid-row1">Läppar med Revolax 0,5 ml 1500 kr (ord. pris 2500 kr)<br>
+                          Läppar med Revolax 1.0 ml 2000 kr (ord pris 3500 kr)<br>
+                          Kinder 2000 kr 1.0 ml (ord pris 2800 kr)<br>
+                          Nasolabial veck 2000 kr (ord pris 2800 kr)<br>
                           ( Erbjudandet gäller under begränsad tid)
                       </div>
                   </div>
@@ -112,9 +136,10 @@
               <div class="col-md-6">
                 <div class="pricing-table">
                     <div class="grid-title font-16">Introduktionserbjudande för Botox:</div>
-                    <div class="grid-row1">1 område 900 kr<br>
-                        2 områden 1500 kr<br>
-                        3 områden 2000 kr<br>
+                    <div class="grid-row1">1 område 1300 kr<br>
+                        2 områden 2000 kr<br>
+                        3 områden 2500 kr<br>
+                        4 områden 3000 kr<br>
                         ( Erbjudandet gäller under begränsad tid)
                     </div>
                   </div>

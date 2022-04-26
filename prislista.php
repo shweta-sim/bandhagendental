@@ -1,6 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-226506056-1"></script>;
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+
+ gtag('config', 'UA-226506056-1');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KH3F684');</script>
+<!-- End Google Tag Manager -->
+
+
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -72,6 +91,11 @@
     </script>
 </head>
 <body id="innerpage">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KH3F684";
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
     <div class="wrap ccm-page">
         <!-- Header Start -->    
 <?php include("header.php"); ?>
@@ -137,39 +161,39 @@
                 </tr>
                 <tr>
                   <td valign="top" class="item-title">Undersökning<br>(inkl.4 rtg-bilder, kostnadsförslag och rådgivning)</td>
-                  <td valign="top" class="item-price">775</td>
+                  <td valign="top" class="item-price">900 kr</td>
                 </tr>
                 <tr class="divider">
                   <td valign="top"></td>
                   <td valign="top"></td>
                 </tr>
                 <tr>
-                  <td valign="top" class="item-title">Röntgen undersökning hela bettet</td>
-                  <td valign="top" class="item-price">750</td>
+                  <td valign="top" class="item-title">Panoramaröntgen OPG</td>
+                  <td valign="top" class="item-price">620 kr</td>
                 </tr>
                 <tr class="divider">
                   <td valign="top"></td>
                   <td valign="top"></td>
                 </tr>
                 <tr>
-                  <td valign="top" class="item-title">Röntgenbild /st.</td>
-                  <td valign="top" class="item-price">45</td>
+                  <td valign="top" class="item-title">Röntgenbild /st</td>
+                  <td valign="top" class="item-price">92 kr</td>
                 </tr>
                 <tr class="divider">
                   <td valign="top"></td>
                   <td valign="top"></td>
                 </tr>
                 <tr>
-                  <td valign="top" class="item-title">Tandstenborttagning , tandläkare</td>
-                  <td valign="top" class="item-price">360 - 700</td>
+                  <td valign="top" class="item-title">Tandstenborttagning</td>
+                  <td valign="top" class="item-price">950-1200 kr</td>
                 </tr>
                 <tr class="divider">
                   <td valign="top"></td>
                   <td valign="top"></td>
                 </tr>
                 <tr>
-                  <td valign="top" class="item-title">Tandstenborttagning, mer omfattande ,Hygienist</td>
-                  <td valign="top" class="item-price">880 - 1200</td>
+                  <td valign="top" class="item-title">Tandstenborttagning, mer omfattande</td>
+                  <td valign="top" class="item-price">1500 kr</td>
                 </tr>
                 <tr class="divider">
                   <td valign="top"></td>
@@ -177,7 +201,7 @@
                 </tr>
                 <tr>
                   <td valign="top" class="item-title">Enytsfyllning, komposit och övriga material</td>
-                  <td valign="top" class="item-price">655 - 825</td>
+                  <td valign="top" class="item-price">775 - 980 kr</td>
                 </tr>
                 <tr class="divider">
                   <td valign="top"></td>
@@ -185,7 +209,7 @@
                 </tr>
                 <tr>
                   <td valign="top" class="item-title">Flerytsfyllning samma tand, komposit och övriga material</td>
-                  <td valign="top" class="item-price">980 - 1395</td>
+                  <td valign="top" class="item-price">1200 - 1700 kr</td>
                 </tr>
                 <tr class="divider">
                   <td valign="top"></td>
@@ -193,7 +217,7 @@
                 </tr>
                 <tr>
                   <td valign="top" class="item-title">Akut Behandling</td>
-                  <td valign="top" class="item-price">355 - 1565</td>
+                  <td valign="top" class="item-price">450 - 1565 kr</td>
                 </tr>
                 <tr class="divider">
                   <td valign="top"></td>
@@ -201,7 +225,7 @@
                 </tr>
                 <tr>
                   <td valign="top" class="item-title">Tanduttagning (enkel)</td>
-                  <td valign="top" class="item-price">995</td>
+                  <td valign="top" class="item-price">1300 kr</td>
                 </tr>
                 <tr class="divider">
                   <td valign="top"></td>
@@ -209,7 +233,7 @@
                 </tr>
                 <tr>
                   <td valign="top" class="item-title">Tanduttagning (komplicerad)</td>
-                  <td valign="top" class="item-price">1625</td>
+                  <td valign="top" class="item-price">2200 kr</td>
                 </tr>
                 <tr class="divider">
                   <td valign="top"></td>
@@ -217,7 +241,7 @@
                 </tr>
                 <tr>
                   <td valign="top" class="item-title">Rotfyllning (1-2 rotkanaler)</td>
-                  <td valign="top" class="item-price">3480 - 3945</td>
+                  <td valign="top" class="item-price">4200 - 4900 kr</td>
                 </tr>
                 <tr class="divider">
                   <td valign="top"></td>
@@ -225,15 +249,7 @@
                 </tr>
                 <tr>
                   <td valign="top" class="item-title">Rotfyllning (3-4 rotkanaler)</td>
-                  <td valign="top" class="item-price">5130 - 5480</td>
-                </tr>
-                <tr class="divider">
-                  <td valign="top"></td>
-                  <td valign="top"></td>
-                </tr>
-                <tr>
-                  <td valign="top" class="item-title">Tandblekning över och underkäke</td>
-                  <td valign="top" class="item-price">1995</td>
+                  <td valign="top" class="item-price">6100 - 6900 kr</td>
                 </tr>
                 <tr class="divider">
                   <td valign="top"></td>
@@ -241,15 +257,31 @@
                 </tr>
                 <tr>
                   <td valign="top" class="item-title">Hel proteser inkl. proteständer</td>
-                  <td valign="top" class="item-price">9230</td>
+                  <td valign="top" class="item-price">10500 kr</td>
                 </tr>
                 <tr class="divider">
                   <td valign="top"></td>
                   <td valign="top"></td>
                 </tr>
                 <tr>
-                  <td valign="top" class="item-title">Implantat från</td>
-                  <td valign="top" class="item-price">14000</td>
+                  <td valign="top" class="item-title">Implantat inklusive operation och krona från</td>
+                  <td valign="top" class="item-price">15000 kr</td>
+                </tr>
+                <tr class="divider">
+                  <td valign="top"></td>
+                  <td valign="top"></td>
+                </tr>
+                <tr>
+                  <td valign="top" class="item-title">Bettskena </td>
+                  <td valign="top" class="item-price">4100 kr</td>
+                </tr>
+                <tr class="divider">
+                  <td valign="top"></td>
+                  <td valign="top"></td>
+                </tr>
+                <tr>
+                  <td valign="top" class="item-title">Tandblekning över och underkäke</td>
+                  <td valign="top" class="item-price">1995 kr</td>
                 </tr>
               </table>
             </div>
@@ -287,7 +319,7 @@
                                             </tr>
                                             <tr>
                                                 <td>Läppar med Revolax 0,5 ml</td>
-                                                <td>1250 kr (ord. pris 2500 kr)</td>
+                                                <td>1500 kr (ord. pris 2500 kr)</td>
                                             </tr>
                                             <tr class="divider">
                                                 <td></td>
@@ -295,7 +327,7 @@
                                             </tr>
                                             <tr>
                                                 <td>Läppar med Revolax 1,0 ml</td>
-                                                <td>1750 kr (ord pris 3500 kr)</td>
+                                                <td>2000 kr (ord pris 3500 kr)</td>
                                             
                                             </tr>
                                             <tr class="divider">
@@ -304,7 +336,7 @@
                                             </tr>
                                             <tr>
                                                 <td>Kinder</td>
-                                                <td>1800 kr (1,0 ml)</td>
+                                                <td>2000 kr (1,0 ml)</td>
                                             
                                             </tr>
                                             <tr class="divider">
@@ -313,7 +345,7 @@
                                             </tr>
                                             <tr>
                                                 <td>Nasolabial veck</td>
-                                                <td>1800 kr (1,0 ml)</td>
+                                                <td>2000 kr (1,0 ml)</td>
                                             </tr>                               
 
                                         </table>
