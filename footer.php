@@ -6,7 +6,9 @@
                 <ul>
                     <li><a href="index.php">Hem</a></li>
                     <li><a href="behandlingar.php">Behandlingar</a></li>
-                    <li><a href="priser.php">Priser</a></li>
+                    <li><a href="prislista-tandvard.php">Prislista - Tandvård</a></li>
+                    <li><a href="prislista-kosmetsika.php">Prislista - Kosmetsika injektionsbehandlingar</a></li>
+                    <li><a href="betalningsalternativ.php">Betalningsalternativ</a></li>
                     <li><a href="erbjudanden.php">Erbjudanden</a></li>
                     <li><a href="kontakt.php">Kontakt</a></li>
                     <li><a href="https://bandhagen.opusdentalonline.com/" target="_blank">Boka Online</a></li>

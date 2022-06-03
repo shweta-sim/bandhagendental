@@ -46,9 +46,10 @@
                 <li>
                     <a href="#" title="">Priser</a>
                     <ul>
-                        <li><a href="#" title="">- Prislista</a></li>
-                        <li><a href="betalningsalternativ.php" title="">- Betalningsalternativ</a></li>
-                        <li><a href="tandvardsforsakring.php" title="">- Tandvårdsförsäkring</a></li>
+                        <li><a href="prislista-tandvard.php" title="">Prislista - Tandvård</a></li>
+                        <li><a href="prislista-kosmetsika.php" title="">Prislista - Kosmetsika injektionsbehandlingar</a></li>
+                        <li><a href="betalningsalternativ.php" title="">Betalningsalternativ</a></li>
+                        <li><a href="tandvardsforsakring.php" title="">Tandvårdsförsäkring</a></li>
                     </ul>
                 </li>
                 <li><a href="erbjudanden.php" title="">Erbjudanden</a></li>
@@ -120,7 +121,8 @@
                     <li class="menu-item-has-children nav-priser">
                         <a href="#" class="position-relative" title="">Priser</a>
                         <ul>
-                            <li><a href="prislista.php" title="">Prislista</a></li>
+                            <li><a href="prislista-tandvard.php" title="">Prislista - Tandvård</a></li>
+                            <li><a href="prislista-kosmetsika.php" title="">Prislista - Kosmetsika injektionsbehandlingar</a></li>
                             <li><a href="betalningsalternativ.php" title="">Betalningsalternativ</a></li>
                             <li><a href="tandvardsforsakring.php" title="">Tandvårdsförsäkring</a></li>
                         </ul>

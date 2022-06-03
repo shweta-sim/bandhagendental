@@ -110,50 +110,66 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
         <div class="row treatment-list first">
             <div class="col-md-4 wow fadeInUp" data-wow-delay="400ms">
+                <div class="work-item"><a href="images/bilder-12.jpg" class="swipebox" rel="logos">
+                  <img src="images/bilder-12.jpg" class="img-fluid" /></a>
+                </div>
+            </div>
+            <div class="col-md-4 wow fadeInUp" data-wow-delay="400ms">
                 <div class="work-item"><a href="images/bilder-1.jpg" class="swipebox" rel="logos">
-                        <img src="images/bilder-1.jpg" class="img-fluid" /></a>
+                   <img src="images/bilder-1.jpg" class="img-fluid" /></a>
+                </div>
+            </div>
+            <div class="col-md-4 wow fadeInUp" data-wow-delay="600ms">
+                <div class="work-item"><a href="images/bilder-6.jpg" class="swipebox" rel="logos">
+                    <img src="images/bilder-6.jpg" class="img-fluid" /></a></div>
+            </div>
+            <div class="col-md-4 wow fadeInUp" data-wow-delay="400ms">
+                <div class="work-item"><a href="images/bilder-7.jpg" class="swipebox" rel="logos">
+                   <img src="images/bilder-7.jpg" class="img-fluid" /></a></div>
+            </div>
+            <div class="col-md-4 wow fadeInUp" data-wow-delay="500ms">
+                <div class="work-item"><a href="images/bilder-8.jpg" class="swipebox" rel="logos">
+                   <img src="images/bilder-8.jpg" class="img-fluid" /></a></div>
+            </div>
+            <div class="col-md-4 wow fadeInUp" data-wow-delay="600ms">
+                <div class="work-item"><a href="images/bilder-9.jpg" class="swipebox" rel="logos">
+                   <img src="images/bilder-9.jpg" class="img-fluid" /></a></div>
+            </div>
+            <div class="col-md-4 wow fadeInUp" data-wow-delay="700ms">
+                <div class="work-item"><a href="images/bilder-10.jpg" class="swipebox" rel="logos">
+                    <img src="images/bilder-10.jpg" class="img-fluid" /></a></div>
+            </div>
+            <div class="col-md-4 wow fadeInUp" data-wow-delay="800ms">
+                <div class="work-item"><a href="images/bilder-11.jpg" class="swipebox" rel="logos">
+                  <img src="images/bilder-11.jpg" class="img-fluid" /></a></div>
+            </div>
+            <div class="col-md-4 wow fadeInUp" data-wow-delay="900ms">
+                <div class="work-item"><a href="images/bilder-13.jpg" class="swipebox" rel="logos">
+                  <img src="images/bilder-13.jpg" class="img-fluid" /></a>
+                </div>
+            </div>
+            <div class="col-md-4 wow fadeInUp" data-wow-delay="1000ms">
+                <div class="work-item"><a href="images/bilder-14.jpg" class="swipebox" rel="logos">
+                   <img src="images/bilder-14.jpg" class="img-fluid" /></a>
                 </div>
             </div>
             <div class="col-md-4 wow fadeInUp" data-wow-delay="500ms">
                 <div class="work-item"><a href="images/bilder-2.jpg" class="swipebox" rel="logos">
-                        <img src="images/bilder-2.jpg" class="img-fluid" /></a></div>
+                   <img src="images/bilder-2.jpg" class="img-fluid" /></a></div>
             </div>
             <div class="col-md-4 wow fadeInUp" data-wow-delay="600ms">
                 <div class="work-item"><a href="images/bilder-3.jpg" class="swipebox" rel="logos">
-                        <img src="images/bilder-3.jpg" class="img-fluid" /></a></div>
+                    <img src="images/bilder-3.jpg" class="img-fluid" /></a></div>
             </div>
             <div class="col-md-4 wow fadeInUp" data-wow-delay="400ms">
                 <div class="work-item"><a href="images/bilder-4.jpg" class="swipebox" rel="logos">
-                        <img src="images/bilder-4.jpg" class="img-fluid" /></a></div>
+                   <img src="images/bilder-4.jpg" class="img-fluid" /></a></div>
             </div>
             <div class="col-md-4 wow fadeInUp" data-wow-delay="500ms">
                 <div class="work-item"><a href="images/bilder-5.jpg" class="swipebox" rel="logos">
-                        <img src="images/bilder-5.jpg" class="img-fluid" /></a></div>
+                   <img src="images/bilder-5.jpg" class="img-fluid" /></a></div>
             </div>
-            <div class="col-md-4 wow fadeInUp" data-wow-delay="600ms">
-                <div class="work-item"><a href="images/bilder-6.jpg" class="swipebox" rel="logos">
-                        <img src="images/bilder-6.jpg" class="img-fluid" /></a></div>
-            </div>
-            <div class="col-md-4 wow fadeInUp" data-wow-delay="400ms">
-                <div class="work-item"><a href="images/bilder-7.jpg" class="swipebox" rel="logos">
-                        <img src="images/bilder-7.jpg" class="img-fluid" /></a></div>
-            </div>
-            <div class="col-md-4 wow fadeInUp" data-wow-delay="500ms">
-                <div class="work-item"><a href="images/bilder-8.jpg" class="swipebox" rel="logos">
-                        <img src="images/bilder-8.jpg" class="img-fluid" /></a></div>
-            </div>
-            <div class="col-md-4 wow fadeInUp" data-wow-delay="600ms">
-                <div class="work-item"><a href="images/bilder-9.jpg" class="swipebox" rel="logos">
-                        <img src="images/bilder-9.jpg" class="img-fluid" /></a></div>
-            </div>
-            <div class="col-md-4 wow fadeInUp" data-wow-delay="600ms">
-                <div class="work-item"><a href="images/bilder-10.jpg" class="swipebox" rel="logos">
-                        <img src="images/bilder-10.jpg" class="img-fluid" /></a></div>
-            </div>
-            <div class="col-md-4 wow fadeInUp" data-wow-delay="600ms">
-                <div class="work-item"><a href="images/bilder-11.jpg" class="swipebox" rel="logos">
-                        <img src="images/bilder-11.jpg" class="img-fluid" /></a></div>
-            </div>
+           
         </div>
 
 

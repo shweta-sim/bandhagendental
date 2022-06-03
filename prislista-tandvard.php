@@ -105,7 +105,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="breadcrumb">
             <div class="container-fluid">
                 <div class="row">
-                    <div class="col-md-12"> Du är här : Priser / <span class="active">Prislista</span> </div>
+                    <div class="col-md-12"> Du är här : Priser / <span class="active">Prislista - Tandvård</span> </div>
                 </div>
             </div>
         </div>
@@ -116,22 +116,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <section>
                 <div class="container margin-btm40">
                     <div class="row">
-                        <div class="col-md-8 col-md-offset-2">
-                            <ul class="price-tab">
-                                <li class="clickme">
-                                    <a href="javascript:;" data-tag="one" class="activelink">Tandvård</a>
-                                </li>
-                                <li class="clickme">
-                                    <a href="javascript:;" data-tag="two">Kosmetsika injektionsbehandlingar Fillers - Botox</a>
-                                </li>
-                            </ul>    
-                        </div>  
                         <div class="col-md-8 col-md-offset-2"> 
                         <div id="container">
-                            <div class="tabList" id="one">                      
                         <div class="row">
                             <div class="col-md-12 ">            
-                            <h3>Prislista</h3>
+                            <h3>Prislista - Tandvård</h3>
                             <h4>Vad kommer ditt besök att kosta!</h4>
 
                             <p>Varje tandläkarmottagning kan välja att sätta sina egna priser, referenslistan är det högsta belopp som staten ersätter. Det innebär att man som patient kan behöva betala mellanskillnaden om mottagningens pris är högre än statens referenslista.</p>
@@ -286,133 +275,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </table>
             </div>
                           
-                            <div>
-                                <strong class="text-brown">Garantier mm..</strong><br>
-                                Vi lämnar ett års garanti på avtagbar protetik, två år på fast implantatburen protetik och fem år på fast tandburen protetik.<br>
-                                <br>
-
-                                Behovet av omgörning måste vara objektivt påvisbart.
-                                <br><br>
-
-                                Kompositfyllning, utförd på korrekta indikationer och utan förbehåll, som inom en två-årsperiod kräver omgörning
-                                ersätts utan kostnad med ny fyllning. Garantin gäller endast en omgörning och omfattar inte kompositkrona.
-                                <br><br>
-
-                                När patient så önskar lämnas intyg om material som använts vid protetiska arbeten och vid fyllningar.
-
-                            </div>
-
-
-                           </div>
+             <div>
+               <strong class="text-brown">Garantier</strong><br>
+               Vi lämnar ett års garanti på avtagbar protetik, två år på fast implantatburen protetik och fem år på fast tandburen protetik.<br><br>
+               Behovet av omgörning måste vara objektivt påvisbart.<br><br>
+               Kompositfyllning, utförd på korrekta indikationer och utan förbehåll, som inom en två-årsperiod kräver omgörning ersätts utan kostnad med ny fyllning. Garantin gäller endast en omgörning och omfattar inte kompositkrona. <br><br>
+               När patient så önskar lämnas intyg om material som använts vid protetiska arbeten och vid fyllningar.
+            </div>
+         </div>
                         </div>
                     </div>
-                            <div class="tabList hide" id="two">
-                                <div class="row">
-                                    <div class="col-md-12 ">  
-                                        
-                                    <div class="pricing-table margin-btm40">
-                                        <h5>Prislista Botox- Fillers</h5>
-                                        <table cellspacing="0" cellpadding="0" class="pricelist2">
-                                            <tr>
-                                                <td>Behandling</td>
-                                                <td class="text-green">V&aring;rt pris</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Läppar med Revolax 0,5 ml</td>
-                                                <td>1500 kr (ord. pris 2500 kr)</td>
-                                            </tr>
-                                            <tr class="divider">
-                                                <td></td>
-                                                <td></td>
-                                            </tr>
-                                            <tr>
-                                                <td>Läppar med Revolax 1,0 ml</td>
-                                                <td>2000 kr (ord pris 3500 kr)</td>
-                                            
-                                            </tr>
-                                            <tr class="divider">
-                                                <td></td>
-                                                <td></td>
-                                            </tr>
-                                            <tr>
-                                                <td>Kinder</td>
-                                                <td>2000 kr (1,0 ml)</td>
-                                            
-                                            </tr>
-                                            <tr class="divider">
-                                                <td></td>
-                                                <td></td>
-                                            </tr>
-                                            <tr>
-                                                <td>Nasolabial veck</td>
-                                                <td>2000 kr (1,0 ml)</td>
-                                            </tr>                               
-
-                                        </table>
-                                    </div>
-                                    <div class="pricing-table margin-btm40">
-                                        <h5>Botulinumtoxin (Botox)</h5>
-                                        <table cellspacing="0" cellpadding="0" class="pricelist2">
-                                            <tr>
-                                                <td>Behandling</td>
-                                                <td class="text-green">V&aring;rt pris</td>
-                                            </tr>
-                                            <tr>
-                                                <td>1 område</td>
-                                                <td>1300 kr</td>
-                                            </tr>
-                                            <tr class="divider">
-                                                <td></td>
-                                                <td></td>
-                                            </tr>
-                                            <tr>
-                                                <td>2 områden</td>
-                                                <td>2000 kr</td>
-                                            
-                                            </tr>
-                                            <tr class="divider">
-                                                <td></td>
-                                                <td></td>
-                                            </tr>
-                                            <tr>
-                                                <td>3 områden</td>
-                                                <td>2500 kr</td>
-                                            </tr>
-                                            <tr>
-                                                <td>4 områden</td>
-                                                <td>3000 kr</td>
-                                            </tr>
-                                        </table>
-                                    </div>
-
-                                    <br>
-
-
-                                    <strong class="text-brown">Vanliga behandlingsområden och dess effekt med botox:</strong><br><br>
-
-- Rynkor mellan ögonbrynen (bekymmersrynkor)<br>
-- Rynkor i ögonens utkanter (kråksparkar), ger lyft och en piggare blick<br>
-- Horisontella rynkor i pannan, ger ett mer avslappnat uttryck<br>
-- Nasiolabiala veck, vid munnen<br>
-- Rökrynkor kring munnen, ger munnen ett föryngrat utseende<br>
-- Läppkontur (lipflip) ger putande läpp<br>
-- Sura mungipor<br>
-- Spänd haka, ta bort apelsinhud och ger ett avspänt ansiktsuttryck<br>
-- Gummy smile<br>
-- Käkmusklerna, ger ett smalare ansikte -Bruxism/Tandgnissling<br><br>
-
-<strong class="text-brown">Återbesök / justering</strong><br>
-Återbesök för justering ingår i behandlingen om du så önskar.<br><br>
-
-Justering av din botoxbehandling (max 10 enheter gratis på det behandlade området, i annat fall 500 kr) skall utföras mellan 1-3 veckor efter din behandling.<br><br>
-
-Återbesök bokas endast till den behandlaren som utfört din behandling.<br><br>
-
-                                    </div>
-                                </div>
-                            </div>
                         </div>   
-                    </div>
                 </div>
             </section>
         </div>
